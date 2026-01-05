@@ -8,5 +8,6 @@ dependencies = [
     "elevenlabs>=2.27.0",
     "ipykernel>=7.1.0",
     "ipywidgets>=8.1.8",
+    "pyaudio>=0.2.14",
     "python-dotenv>=1.2.1",
 ]
