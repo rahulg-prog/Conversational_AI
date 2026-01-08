@@ -5,6 +5,8 @@ data_source:
     petrol_vehicle_data: data\processed_data\petrol_data.csv
     electric_vehicle_data: data\processed_data\ev.csv
     price_data: data\processed_data\price.csv
+  evalution_data:
+    ground_truth: data\evaluation_data\ground_truth.jsonl
 
 model:
-  name: gpt-4.1-nano-2025-04-14
+  name: gpt-4.1
