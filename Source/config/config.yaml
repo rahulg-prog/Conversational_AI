@@ -9,4 +9,4 @@ data_source:
     ground_truth: data\evaluation_data\ground_truth.jsonl
 
 model:
-  name: gpt-4.1
+  name: gpt-4.1-mini-2025-04-14
