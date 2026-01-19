@@ -1,0 +1,81 @@
+{
+  "services": [
+    {
+      "id": "services_value_added",
+      "category": "Services",
+      "subcategory": "Value Added Services",
+      "title": "Honda Value Added Services",
+      "content": "Honda offers several value added services to enhance ownership experience. These include Extended Warranty, Extended Warranty Plus, Annual Maintenance Contract (AMC), Road Side Assistance (RSA), EV Care Package, and Know Your Vehicle under the Right to Repair initiative."
+    },
+    {
+      "id": "services_other",
+      "category": "Services",
+      "subcategory": "General Services",
+      "title": "Honda Service Offerings",
+      "content": "Honda provides Recall Campaigns, Honda Genuine Parts, Service Appointments, Booking Cancellation, Finance Availability, Refund Verification, and Value Added Service enquiries."
+    },
+    {
+      "id": "products_ev",
+      "category": "Products",
+      "subcategory": "Electric Vehicles",
+      "title": "Honda Electric Two Wheelers",
+      "content": "Honda electric two wheelers in India include Activa e and QC1 models."
+    },
+    {
+      "id": "products_scooters",
+      "category": "Products",
+      "subcategory": "Scooters",
+      "title": "Honda Scooters",
+      "content": "Honda scooter lineup includes Activa110, Activa110 Anniversary Edition, Dio110, Activa125, Activa125 Anniversary Edition, and Dio125."
+    },
+    {
+      "id": "products_motorcycles_redwing",
+      "category": "Products",
+      "subcategory": "Motorcycles - Red Wing",
+      "title": "Honda Red Wing Motorcycles",
+      "content": "Honda Red Wing motorcycles include Shine100, Shine100 DX, Livo, Shine125, SP125, SP125 Anniversary Edition, CB125 Hornet, Unicorn, SP160, NX200, and Hornet 2.0."
+    },
+    {
+      "id": "products_motorcycles_bigwing",
+      "category": "Products",
+      "subcategory": "Motorcycles - BigWing",
+      "title": "Honda BigWing Motorcycles",
+      "content": "Honda BigWing motorcycles include NX200, CB300F, CB350, CB350C, CB350C Special Edition, CB350 H'ness, CB350RS, NX500, CB650R, CBR650R, Hornet 750, XL750 Transalp, X-Adv, Hornet 1000 SP, and GoldWing Tour."
+    },
+    {
+      "id": "dealer_network",
+      "category": "Dealer Network",
+      "subcategory": null,
+      "title": "Honda Dealer Network",
+      "content": "Honda dealer network services include locating dealers, viewing the dealer network, becoming a dealer, and finding distributors across India."
+    },
+    {
+      "id": "about_honda",
+      "category": "Corporate",
+      "subcategory": "About Honda",
+      "title": "About Honda India Operations",
+      "content": "Honda India operations include corporate history, manufacturing factories, technology initiatives, racing activities, and career opportunities. Honda is also connected with Honda Global, Honda Cars India, Honda India Power Products, and Honda Power Pack Energy India."
+    },
+    {
+      "id": "sustainability",
+      "category": "Sustainability",
+      "subcategory": null,
+      "title": "Honda Sustainability Initiatives",
+      "content": "Honda sustainability initiatives focus on environmental programs at manufacturing plants, End of Life Vehicle handling, safety at Honda plants, safety education in India, and corporate social responsibility activities."
+    },
+    {
+      "id": "resources",
+      "category": "Resources",
+      "subcategory": null,
+      "title": "Honda Resources",
+      "content": "Honda provides resources such as Owner’s Manuals, Video Gallery, Press Releases, Awards, FAQs, Creative Gallery, and Institutional Sales information."
+    },
+    {
+      "id": "contact_support",
+      "category": "Support",
+      "subcategory": null,
+      "title": "Honda Customer Support",
+      "content": "Honda customer support is available through dealer locator services, enquiry options, WhatsApp channel, phone support at 1800 103 3434, and email support."
+    }
+  ]
+}
