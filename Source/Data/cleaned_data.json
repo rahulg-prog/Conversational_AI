@@ -77,5 +77,458 @@
       "title": "Honda Customer Support",
       "content": "Honda customer support is available through dealer locator services, enquiry options, WhatsApp channel, phone support at 1800 103 3434, and email support."
     }
+  ],
+    "annual_maintenance_contract": [
+    {
+      "id": "amc_overview",
+      "category": "Services",
+      "subcategory": "Maintenance",
+      "title": "Annual Maintenance Contract (AMC)",
+      "content": "Honda Annual Maintenance Contract (AMC) is a value-added service designed to provide hassle-free vehicle maintenance with protection against inflation. AMC is available for select Honda two-wheelers, including RedWing motorcycles, scooters, BigWing motorcycles, and EV models. Customers can opt for AMC after completion of free services."
+    },
+    {
+      "id": "amc_types",
+      "category": "Services",
+      "subcategory": "Maintenance",
+      "title": "Types of Honda AMC",
+      "content": "Honda AMC is available in two types: Premium AMC and Basic AMC. Premium AMC offers long-term maintenance coverage from 1 to 6 years, while Basic AMC provides discounted maintenance coverage for a period of 1 year."
+    },
+    {
+      "id": "amc_premium_overview",
+      "category": "Services",
+      "subcategory": "Maintenance - Premium AMC",
+      "title": "Premium Annual Maintenance Contract",
+      "content": "Premium Annual Maintenance Contract provides comprehensive maintenance benefits with peace of mind. It includes periodic services, periodic maintenance parts, lubricants, washing, and labour. Premium AMC is available for a duration of 1 to 6 years after completion of free services."
+    },
+    {
+      "id": "amc_premium_benefits",
+      "category": "Services",
+      "subcategory": "Maintenance - Premium AMC",
+      "title": "Premium AMC Customer Benefits",
+      "content": "Premium AMC benefits include flexibility of purchase, long-term coverage from 2 to 6 years, inclusive coverage of periodic maintenance parts, lubricants and labour, 5% discount on additional parts and lubricants, 20% discount on additional labour, free washing, complimentary pick and drop, doorstep service, free chain cleaning, inflation protection, and improved resale value."
+    },
+    {
+      "id": "amc_basic_overview",
+      "category": "Services",
+      "subcategory": "Maintenance - Basic AMC",
+      "title": "Basic Annual Maintenance Contract",
+      "content": "Basic Annual Maintenance Contract provides essential maintenance benefits for a period of 1 year. It can be purchased after completion of free services and focuses on discounted servicing rather than inclusive coverage."
+    },
+    {
+      "id": "amc_basic_benefits",
+      "category": "Services",
+      "subcategory": "Maintenance - Basic AMC",
+      "title": "Basic AMC Customer Benefits",
+      "content": "Basic AMC benefits include flexibility to choose between Basic and Premium AMC, best coverage term of 2 years, 5% discount on parts and lubricants, 20% discount on additional labour, free washing, inflation protection, and improved resale value."
+    },
+    {
+      "id": "amc_features",
+      "category": "Services",
+      "subcategory": "Maintenance",
+      "title": "Features of Annual Maintenance Contract",
+      "content": "Key features of Honda AMC include hassle-free maintenance, protection against rising service costs through inflation protection, and improved resale value due to documented and authorised servicing."
+    },
+    {
+      "id": "amc_enrolment",
+      "category": "Services",
+      "subcategory": "Maintenance",
+      "title": "How to Enrol in Honda AMC",
+      "content": "Customers can enrol in Honda AMC by visiting their nearest Honda authorised dealership or by registering interest through the Enquire Now option. AMC benefits can be availed only at the authorised service centre from where the AMC has been purchased."
+    },
+    {
+      "id": "amc_faq_discounts",
+      "category": "Services",
+      "subcategory": "Maintenance - FAQ",
+      "title": "AMC Discounts and Coverage",
+      "content": "Under Premium AMC, customers receive higher discounts on additional parts, lubricants, and labour. Under Basic AMC, customers receive a 5% discount on parts and lubricants and a discount on additional labour. Exact discount percentages may vary by plan and tenure."
+    },
+    {
+      "id": "amc_applicability",
+      "category": "Services",
+      "subcategory": "Maintenance",
+      "title": "AMC Applicability and Conditions",
+      "content": "AMC is available only for select Honda models. Benefits are applicable exclusively at the Honda authorised service centre where the AMC was purchased. Conditions apply, and customers are advised to contact their nearest dealership for detailed eligibility."
+    }
+  ],
+    "annual_maintenance_ev_care": [
+    {
+      "id": "ev_care_overview",
+      "category": "Services",
+      "subcategory": "Maintenance - EV",
+      "title": "EV Care Package Overview",
+      "content": "Honda EV Care Package is an after-sales care initiative designed to protect the asset value of Honda electric vehicles. It focuses on world-class maintenance, extended vehicle value, and a superior ownership experience through comprehensive care packages."
+    },
+    {
+      "id": "ev_care_honda_care",
+      "category": "Services",
+      "subcategory": "Maintenance - EV",
+      "title": "Honda Care Package",
+      "content": "Every Honda EV customer is entitled to a complimentary Honda Care Package. The package includes three free periodic maintenance services, free roadside assistance for the first year, vehicle warranty of three years or 30,000 kilometers whichever comes earlier, 24x7 dedicated call centre support, and free Software as a Service for connected features for the first year."
+    },
+    {
+      "id": "ev_care_plus_overview",
+      "category": "Services",
+      "subcategory": "Maintenance - EV Care Plus",
+      "title": "Honda Care Plus Package",
+      "content": "Honda Care Plus is a comprehensive ownership plan designed to provide enhanced reliability and peace of mind for five years at an affordable price. The package is priced at INR 9900 and offers extended long-term protection for Honda electric vehicles."
+    },
+    {
+      "id": "ev_care_plus_benefits",
+      "category": "Services",
+      "subcategory": "Maintenance - EV Care Plus",
+      "title": "Honda Care Plus Package Benefits",
+      "content": "Honda Care Plus benefits include a five-year Annual Maintenance Contract consisting of one year standard and four years extended AMC, five-year warranty with three years standard and two years extended coverage, five-year roadside assistance with nationwide validity, and reduced unexpected ownership costs. Each component of the package can also be purchased individually."
+    },
+    {
+      "id": "ev_care_plus_amc_details",
+      "category": "Services",
+      "subcategory": "Maintenance - EV Care Plus",
+      "title": "AMC Coverage Under Honda Care Plus",
+      "content": "The five-year AMC under Honda Care Plus includes three free periodic maintenance services in the first year and eight paid periodic maintenance services over the next four years. Labour charges for the paid services are covered, while customers are required to pay only for consumables and parts."
+    },
+    {
+      "id": "ev_care_applicability",
+      "category": "Services",
+      "subcategory": "Maintenance - EV",
+      "title": "Applicability and Purchase Conditions",
+      "content": "Honda Care Plus package can be purchased at the time of vehicle purchase or within thirty days of vehicle purchase from an authorized EV Honda dealer. The package is transferable to subsequent owners of the same vehicle but is not transferable to another vehicle. Benefits can be availed at any authorized EV Honda dealer across India."
+    },
+    {
+      "id": "ev_care_pricing_models",
+      "category": "Services",
+      "subcategory": "Maintenance - EV",
+      "title": "Pricing and Model Coverage",
+      "content": "Honda EV Care packages apply to electric models including Activa e and QC1. Standard warranty for these models is three years, with free services and roadside assistance provided during the first year. Honda Care Plus is available as an optional paid package."
+    },
+    {
+      "id": "ev_care_faq_summary",
+      "category": "Services",
+      "subcategory": "Maintenance - EV FAQ",
+      "title": "EV Care Package FAQs",
+      "content": "Frequently asked questions cover Care Plus inclusions, transferability, all-India validity, purchase window of thirty days from vehicle purchase, AMC coverage details, and purchase options through authorized EV Honda dealers with financing availability."
+    }
+  ],
+    "service_maintainance_extended_warranty": [
+    {
+      "id": "ew_overview",
+      "category": "Services",
+      "subcategory": "Maintenance - Extended Warranty",
+      "title": "Extended Warranty Overview",
+      "content": "Honda Extended Warranty provides protection against manufacturing defects after the standard warranty period. It helps mitigate high repair or replacement costs for covered parts and enhances long-term ownership peace of mind."
+    },
+    {
+      "id": "ew_applicable_segments",
+      "category": "Services",
+      "subcategory": "Maintenance - Extended Warranty",
+      "title": "Applicable Vehicle Segments",
+      "content": "Honda Extended Warranty is available for RedWing motorcycles, RedWing scooters, BigWing motorcycles, and electric vehicles. Coverage options and tenure vary by model category and engine capacity."
+    },
+    {
+      "id": "ew_motorcycle_packages",
+      "category": "Services",
+      "subcategory": "Maintenance - Extended Warranty",
+      "title": "Extended Warranty Packages for Motorcycles",
+      "content": "For select motorcycles, extended warranty options allow coverage up to 10 years by combining standard warranty with extended tenure options. Warranty validity is based on policy period or kilometre limit, whichever is earlier."
+    },
+    {
+      "id": "ew_bigwing_coverage",
+      "category": "Services",
+      "subcategory": "Maintenance - Extended Warranty",
+      "title": "BigWing Motorcycle Coverage",
+      "content": "BigWing motorcycles such as CB300F, CB350, CB350RS, CB350 H’ness, NX500, GoldWing Tour, and XL750 Transalp are eligible for extended warranty plans with varying tenure and kilometre coverage depending on the model."
+    },
+    {
+      "id": "ew_ev_coverage",
+      "category": "Services",
+      "subcategory": "Maintenance - Extended Warranty - EV",
+      "title": "Extended Warranty Coverage for EV",
+      "content": "For Honda electric vehicles, extended warranty provides an additional two years or 20,000 kilometres of coverage for both battery and vehicle, subject to terms and conditions."
+    },
+    {
+      "id": "ew_features",
+      "category": "Services",
+      "subcategory": "Maintenance - Extended Warranty",
+      "title": "Features of Extended Warranty",
+      "content": "Key features include extended warranty duration up to 6 years or higher based on plan, flexible product range, flexible buying options, purchase window within a defined period from vehicle purchase, pan-India validity, transferability on ownership change, genuine Honda parts usage, and service by trained Honda technicians."
+    },
+    {
+      "id": "ew_benefits",
+      "category": "Services",
+      "subcategory": "Maintenance - Extended Warranty",
+      "title": "Benefits of Extended Warranty",
+      "content": "Extended Warranty benefits include complete peace of mind, cost-effective repairs, coverage of high-value parts, improved resale value, longer vehicle life, and consistent service standards across India."
+    },
+    {
+      "id": "ew_purchase_window",
+      "category": "Services",
+      "subcategory": "Maintenance - Extended Warranty",
+      "title": "Purchase Window and Eligibility",
+      "content": "Extended Warranty must be purchased within a defined time window from the vehicle purchase date. The exact purchase duration varies by vehicle category, with EV extended warranty available within one year from purchase."
+    },
+    {
+      "id": "ew_service_conditions",
+      "category": "Services",
+      "subcategory": "Maintenance - Extended Warranty",
+      "title": "Service and Validity Conditions",
+      "content": "Extended Warranty remains valid only if periodic maintenance services are carried out as scheduled at authorized Honda service centres. Missing scheduled services can result in warranty voidance."
+    },
+    {
+      "id": "ew_faq_summary",
+      "category": "Services",
+      "subcategory": "Maintenance - Extended Warranty FAQ",
+      "title": "Extended Warranty FAQs",
+      "content": "Frequently asked questions address coverage scope, purchase eligibility, covered parts, labour charges inclusion, transferability between dealers, pan-India validity, and differences between standard and extended warranty coverage."
+    }
+  ],
+   "services_maintenance_recall_campaign": [
+    {
+      "id": "recall_overview",
+      "category": "Services",
+      "subcategory": "Maintenance - Recall Campaign",
+      "title": "Recall Campaign Overview",
+      "content": "Honda conducts proactive recall campaigns as a responsible manufacturer to inspect or replace affected vehicles if any issue is identified in manufactured products. The objective is to ensure customer safety, vehicle reliability, and a premium riding experience."
+    },
+    {
+      "id": "recall_purpose",
+      "category": "Services",
+      "subcategory": "Maintenance - Recall Campaign",
+      "title": "Purpose of Recall Campaign",
+      "content": "The recall campaign aims to inform customers about affected units, identify suspected issues, outline corrective actions, provide replacement timelines, and address frequently asked questions related to recalls."
+    },
+    {
+      "id": "recall_vehicle_categories",
+      "category": "Services",
+      "subcategory": "Maintenance - Recall Campaign",
+      "title": "Applicable Vehicle Categories",
+      "content": "Recall campaigns may apply to BigWing motorcycles, RedWing motorcycles, RedWing scooters, and Honda electric vehicles. Customers must select the appropriate vehicle category to check recall applicability."
+    },
+    {
+      "id": "recall_check_process",
+      "category": "Services",
+      "subcategory": "Maintenance - Recall Campaign",
+      "title": "How to Check Recall Applicability",
+      "content": "To check if a vehicle is under a recall campaign, customers must select the vehicle category and model, enter the 17-digit VIN or chassis number, and submit the request. The recall status of the vehicle is then displayed."
+    },
+    {
+      "id": "recall_customer_notification",
+      "category": "Services",
+      "subcategory": "Maintenance - Recall Campaign",
+      "title": "Customer Notification Process",
+      "content": "Honda proactively informs customers about recalls through public press releases. Authorized dealers also notify affected customers through letters, phone calls, emails, or SMS regarding inspection or repair requirements."
+    },
+    {
+      "id": "recall_customer_action",
+      "category": "Services",
+      "subcategory": "Maintenance - Recall Campaign",
+      "title": "What Customers Should Do",
+      "content": "If a vehicle is identified under a recall, customers should contact their nearest Honda authorized dealership and schedule a service appointment for inspection or replacement."
+    },
+    {
+      "id": "recall_cost_policy",
+      "category": "Services",
+      "subcategory": "Maintenance - Recall Campaign",
+      "title": "Cost and Warranty Policy",
+      "content": "All recall inspections and replacements are carried out free of charge, irrespective of the vehicle’s warranty status."
+    },
+    {
+      "id": "recall_service_location",
+      "category": "Services",
+      "subcategory": "Maintenance - Recall Campaign",
+      "title": "Authorized Service Locations",
+      "content": "All vehicles identified under recall are attended to at Honda Motorcycle and Scooter India authorized dealerships across the country."
+    },
+    {
+      "id": "recall_appointment_guidance",
+      "category": "Services",
+      "subcategory": "Maintenance - Recall Campaign",
+      "title": "Appointment Recommendation",
+      "content": "To avoid inconvenience or waiting time, customers are advised to book a service appointment in advance based on their availability."
+    },
+    {
+      "id": "recall_spare_parts",
+      "category": "Services",
+      "subcategory": "Maintenance - Recall Campaign",
+      "title": "Replacement of Suspected Spare Parts",
+      "content": "Honda also replaces all suspected spare parts stock associated with the recall to ensure vehicle safety and maintain high quality standards."
+    },
+    {
+      "id": "recall_faq_summary",
+      "category": "Services",
+      "subcategory": "Maintenance - Recall Campaign FAQ",
+      "title": "Recall Campaign FAQs",
+      "content": "Frequently asked questions address how to check recall status, customer actions after recall identification, cost involvement, service locations, appointment scheduling, and replacement of suspected spare parts."
+    }
+  ],
+  "campaign_product_recall_listing": [
+    {
+      "id": "recall_listing_overview",
+      "category": "Services",
+      "subcategory": "Recall Campaign",
+      "title": "Product Recall Listing Overview",
+      "content": "Honda conducts voluntary product recall campaigns to inspect or replace affected vehicles when quality or safety issues are identified. These campaigns aim to maintain customer safety, product reliability, and trust."
+    },
+    {
+      "id": "recall_cb1000_hornet_sp",
+      "category": "Services",
+      "subcategory": "Recall Campaign - Product",
+      "title": "CB1000 Hornet SP Recall",
+      "content": "CB1000 Hornet SP is under a voluntary recall due to a potential issue where excessive radiant heat from the exhaust system may soften the painted seating surface, causing the gear shift pedal pivot bolt to loosen or fall off, affecting gear shifting while riding."
+    },
+    {
+      "id": "recall_africa_twin_crf1100_ecu",
+      "category": "Services",
+      "subcategory": "Recall Campaign - Product",
+      "title": "Africa Twin (CRF1100) ECU Software Recall",
+      "content": "Africa Twin (CRF1100) is recalled for an ECU software-related issue where unexpected activation of the wheelie control system during acceleration may occur, potentially leading to loss of balance in certain situations."
+    },
+    {
+      "id": "recall_goldwing",
+      "category": "Services",
+      "subcategory": "Recall Campaign - Product",
+      "title": "Gold Wing Recall",
+      "content": "Gold Wing motorcycles are recalled for inspection and replacement related to issues including primary drive gear tightening bolt breakage and inspection or replacement of the fuel pump."
+    },
+    {
+      "id": "recall_cbr1000rr",
+      "category": "Services",
+      "subcategory": "Recall Campaign - Product",
+      "title": "CBR1000RR Fuel Pump Recall",
+      "content": "CBR1000RR is recalled due to a potential defect in fuel pump impellers that may have been improperly molded, leading to deformation, fuel pump failure, engine stalling, or failure to start without prior indication."
+    },
+    {
+      "id": "recall_cb350_hness",
+      "category": "Services",
+      "subcategory": "Recall Campaign - Product",
+      "title": "H’ness CB350 Recall",
+      "content": "H’ness CB350 is recalled for multiple components including rear stop light switch, bank angle sensor, camshaft components, and front and rear wheel speed sensors."
+    },
+    {
+      "id": "recall_cb350rs",
+      "category": "Services",
+      "subcategory": "Recall Campaign - Product",
+      "title": "CB350RS Recall",
+      "content": "CB350RS is recalled for inspection or replacement of rear stop light switch, bank angle sensor, camshaft components, and front and rear wheel speed sensors."
+    },
+    {
+      "id": "recall_cb300r",
+      "category": "Services",
+      "subcategory": "Recall Campaign - Product",
+      "title": "CB300R Recall",
+      "content": "CB300R is recalled for issues related to right crankcase cover replacement and inspection of front and rear wheel speed sensors."
+    },
+    {
+      "id": "recall_cb350",
+      "category": "Services",
+      "subcategory": "Recall Campaign - Product",
+      "title": "CB350 Recall",
+      "content": "CB350 is recalled due to camshaft component issues and front and rear wheel speed sensor inspection or replacement."
+    },
+    {
+      "id": "recall_cb300f",
+      "category": "Services",
+      "subcategory": "Recall Campaign - Product",
+      "title": "CB300F Wheel Speed Sensor Recall",
+      "content": "CB300F is recalled due to potential water seepage into improperly molded wheel speed sensors, which may lead to malfunction of speedometer, traction control, ABS intervention, or reduced braking effectiveness."
+    },
+    {
+      "id": "recall_check_process",
+      "category": "Services",
+      "subcategory": "Recall Campaign",
+      "title": "How to Check Recall Applicability",
+      "content": "Customers can check recall applicability by selecting their vehicle model and entering the 17-digit VIN or chassis number. Recall status is displayed after submission."
+    },
+    {
+      "id": "recall_faq_summary",
+      "category": "Services",
+      "subcategory": "Recall Campaign FAQ",
+      "title": "Product Recall FAQs",
+      "content": "FAQs cover how to check recall status, actions to take if a vehicle is recalled, confirmation that recall repairs are free of cost regardless of warranty status, authorized service locations, replacement timelines, and where to find the VIN or chassis number."
+    }
+  ],
+    "road_side_assistance": [
+    {
+      "id": "rsa_overview",
+      "category": "Services",
+      "subcategory": "Maintenance - Road Side Assistance",
+      "title": "Road Side Assistance Overview",
+      "content": "Honda Road Side Assistance (RSA) is a value-added service designed to support customers during unexpected breakdowns such as flat tyres, dead batteries, or vehicle malfunction. RSA provides fast, reliable assistance to ensure rider safety and convenience."
+    },
+    {
+      "id": "rsa_applicable_vehicles",
+      "category": "Services",
+      "subcategory": "Maintenance - Road Side Assistance",
+      "title": "Applicable Vehicle Categories",
+      "content": "Honda RSA is available for RedWing motorcycles, RedWing scooters, BigWing motorcycles, and Honda electric vehicles. Coverage and pricing vary based on engine capacity and model category."
+    },
+    {
+      "id": "rsa_policy_types",
+      "category": "Services",
+      "subcategory": "Maintenance - Road Side Assistance",
+      "title": "RSA Policy Types",
+      "content": "RSA is offered under different policy categories based on engine capacity: Small Fun for motorcycles up to 500cc, Fun for motorcycles above 500cc with limited towing, and Fun Plus for motorcycles above 500cc with unlimited towing."
+    },
+    {
+      "id": "rsa_pricing",
+      "category": "Services",
+      "subcategory": "Maintenance - Road Side Assistance",
+      "title": "RSA Pricing",
+      "content": "RSA pricing includes INR 1999 for motorcycles up to 500cc, INR 3999 for motorcycles above 500cc with limited towing, and INR 7999 for motorcycles above 500cc with unlimited towing. Pricing is for one-year coverage."
+    },
+    {
+      "id": "rsa_core_features",
+      "category": "Services",
+      "subcategory": "Maintenance - Road Side Assistance",
+      "title": "Core RSA Features",
+      "content": "Key RSA features include vehicle towing, on-site minor repairs, flat tyre assistance, battery support, key assistance, fuel assistance up to 5 litres per year, taxi assistance up to 50 km, pan-India coverage, and 24x7 phone assistance."
+    },
+    {
+      "id": "rsa_towing_coverage",
+      "category": "Services",
+      "subcategory": "Maintenance - Road Side Assistance",
+      "title": "Towing Coverage",
+      "content": "Towing coverage includes up to 300 km for Small Fun and Fun policies, while Fun Plus policies provide unlimited towing distance. Towing is applicable in case the vehicle cannot be repaired on-site."
+    },
+    {
+      "id": "rsa_eligibility",
+      "category": "Services",
+      "subcategory": "Maintenance - Road Side Assistance",
+      "title": "Eligibility Criteria",
+      "content": "Customers who purchase a new Honda two-wheeler are eligible for RSA up to the seventh year from the vehicle purchase date. RSA can be purchased at the time of vehicle purchase or added later through an authorized Honda dealer."
+    },
+    {
+      "id": "rsa_how_to_avail",
+      "category": "Services",
+      "subcategory": "Maintenance - Road Side Assistance",
+      "title": "How to Avail RSA",
+      "content": "To avail Road Side Assistance, customers must call the Honda RSA toll-free number 1800 209 2224. Assistance is available 24x7, and service requests are handled by trained RSA representatives."
+    },
+    {
+      "id": "rsa_usage_limits",
+      "category": "Services",
+      "subcategory": "Maintenance - Road Side Assistance",
+      "title": "Usage Limits",
+      "content": "Customers can avail RSA towing services up to twelve times in a year. Fuel assistance, taxi assistance, and on-site repair services are subject to defined limits per policy year."
+    },
+    {
+      "id": "rsa_ev_services",
+      "category": "Services",
+      "subcategory": "Maintenance - Road Side Assistance - EV",
+      "title": "RSA Services for Electric Vehicles",
+      "content": "RSA for Honda electric vehicles includes assistance over phone, on-road minor repairs, puncture repair, key assistance, towing to authorized service centres, and pan-India coverage."
+    },
+    {
+      "id": "rsa_vs_extended_warranty",
+      "category": "Services",
+      "subcategory": "Maintenance - Comparison",
+      "title": "RSA vs Extended Warranty",
+      "content": "Road Side Assistance focuses on emergency support during breakdowns, while Extended Warranty covers manufacturing defects and repair costs over an extended period. Both services complement each other for a worry-free ownership experience."
+    },
+    {
+      "id": "rsa_faq_summary",
+      "category": "Services",
+      "subcategory": "Maintenance - Road Side Assistance FAQ",
+      "title": "Road Side Assistance FAQs",
+      "content": "FAQs address RSA coverage conditions, eligibility, how to request assistance, service limits, purchase after vehicle delivery, and differences between RSA and extended warranty."
+    }
   ]
 }
