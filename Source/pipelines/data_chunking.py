@@ -7,8 +7,8 @@ sys.path.insert(0, str(project_root))
 
 from logger.custom_logger import CustomLogger
 from exception.custom_exception import DocumentPortalException
-logger = CustomLogger().get_logger(__name__)
 from config.settings_loader import load_config
+logger = CustomLogger().get_logger(__name__)
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 

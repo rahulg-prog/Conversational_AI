@@ -10,6 +10,7 @@ dependencies = [
     "ipykernel>=7.1.0",
     "ipywidgets>=8.1.8",
     "langchain>=1.2.2",
+    "langchain-chroma>=1.1.0",
     "langchain-core>=1.2.6",
     "langchain-experimental>=0.4.1",
     "langchain-openai>=1.1.7",
