@@ -26,8 +26,9 @@ class FolderOperation:
             if not os.path.exists(folder_path):
                 os.makedirs(folder_path, exist_ok=True)
                 logger.info(f"BY UTILS: Folder created successfully at: {folder_path}")
+                return True
             else:
-                logger.info(f"BY UTILS: Folder already exists at: {folder_path}")
+                return False
                 
         except Exception as e:
             logger.error(f"Error occurred while creating folder: {str(e)}")

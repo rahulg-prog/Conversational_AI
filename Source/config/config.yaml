@@ -3,9 +3,19 @@ data_ingestion:
   raw_data: Source\data\cleaned_data.json
   clean_data: Source\data\cleaned_data.json
 
-model:
-  name: gpt-4.1-mini-2025-04-14
+constant:
+  data_path: Source/data
   
 chunking:
   chunk_size: 1000
   chunk_overlap: 100
+
+embedding:
+  model_name: text-embedding-ada-002
+  persist_directory: /vector_store
+
+retriever:
+  top_k: 5
+
+model:
+  name: gpt-4.1-mini-2025-04-14

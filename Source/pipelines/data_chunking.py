@@ -8,15 +8,18 @@ sys.path.insert(0, str(project_root))
 from logger.custom_logger import CustomLogger
 from exception.custom_exception import DocumentPortalException
 from config.settings_loader import load_config
+from utils.folder_operation import FolderOperation
 logger = CustomLogger().get_logger(__name__)
 
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+from pathlib import Path
 
 class dataChunking:
     def __init__(self,records):
         try:
-            self.config = load_config()
+            self.config = load_config(r"C:\github_work\Conversational_AI\Source\config\config.yaml")
             self.records = records
+            self.path = FolderOperation().create_folder(Path(f"{self.config['constant']['data_path']}/CS_{self.config['chunking']['chunk_size']}CO_{self.config['chunking']['chunk_overlap']}K_{self.config['retriever']['top_k']}"))
         except Exception as e:
             raise DocumentPortalException(e, sys) from e
         
@@ -49,7 +52,7 @@ class dataChunking:
                     }
                 })
         logger.info(f"Document chunking completed. Generated {len(chunks)} chunks.")
-        return chunks
+        return self.path,chunks
 
 if __name__ == "__main__":
     try:
