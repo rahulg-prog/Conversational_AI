@@ -78,7 +78,7 @@
       "content": "Honda customer support is available through dealer locator services, enquiry options, WhatsApp channel, phone support at 1800 103 3434, and email support."
     }
   ],
-    "annual_maintenance_contract": [
+    "annual maintenance contract": [
     {
       "id": "amc_overview",
       "category": "Services",
@@ -150,7 +150,7 @@
       "content": "AMC is available only for select Honda models. Benefits are applicable exclusively at the Honda authorised service centre where the AMC was purchased. Conditions apply, and customers are advised to contact their nearest dealership for detailed eligibility."
     }
   ],
-    "annual_maintenance_ev_care": [
+    "annual maintenance ev care": [
     {
       "id": "ev_care_overview",
       "category": "Services",
@@ -208,7 +208,7 @@
       "content": "Frequently asked questions cover Care Plus inclusions, transferability, all-India validity, purchase window of thirty days from vehicle purchase, AMC coverage details, and purchase options through authorized EV Honda dealers with financing availability."
     }
   ],
-    "service_maintainance_extended_warranty": [
+    "service maintainance extended warranty": [
     {
       "id": "ew_overview",
       "category": "Services",
@@ -280,7 +280,7 @@
       "content": "Frequently asked questions address coverage scope, purchase eligibility, covered parts, labour charges inclusion, transferability between dealers, pan-India validity, and differences between standard and extended warranty coverage."
     }
   ],
-   "services_maintenance_recall_campaign": [
+   "services maintenance recall campaign": [
     {
       "id": "recall_overview",
       "category": "Services",
@@ -359,7 +359,7 @@
       "content": "Frequently asked questions address how to check recall status, customer actions after recall identification, cost involvement, service locations, appointment scheduling, and replacement of suspected spare parts."
     }
   ],
-  "campaign_product_recall_listing": [
+  "campaign product recall listing": [
     {
       "id": "recall_listing_overview",
       "category": "Services",
@@ -445,7 +445,7 @@
       "content": "FAQs cover how to check recall status, actions to take if a vehicle is recalled, confirmation that recall repairs are free of cost regardless of warranty status, authorized service locations, replacement timelines, and where to find the VIN or chassis number."
     }
   ],
-    "road_side_assistance": [
+    "road side assistance": [
     {
       "id": "rsa_overview",
       "category": "Services",
@@ -529,6 +529,290 @@
       "subcategory": "Maintenance - Road Side Assistance FAQ",
       "title": "Road Side Assistance FAQs",
       "content": "FAQs address RSA coverage conditions, eligibility, how to request assistance, service limits, purchase after vehicle delivery, and differences between RSA and extended warranty."
+    }
+  ],
+    "vehicle pricing": [
+    {
+      "id": "pricing_qc1",
+      "category": "Pricing",
+      "subcategory": "Electric Scooter",
+      "model": "QC1",
+      "title": "QC1 On-Road Price",
+      "content": "QC1 electric scooter has a showroom price of INR 90,022. Road tax is INR 1,650, insurance costs INR 5,610, extended warranty costs INR 9,900, and registration charges are INR 1,200. The total vehicle cost is INR 108,382. Basic accessories cost INR 3,999, making the final on-road price INR 112,381."
+    },
+    {
+      "id": "pricing_activa_std_obd2b",
+      "category": "Pricing",
+      "subcategory": "Scooter",
+      "model": "ACTIVA STD OBD 2B",
+      "title": "Activa STD OBD 2B On-Road Price",
+      "content": "Activa STD OBD 2B has a showroom price of INR 83,986. Road tax is INR 13,111, insurance costs INR 7,023, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 106,217. Basic accessories cost INR 6,500, making the final on-road price INR 112,717."
+    },
+    {
+      "id": "pricing_activa_dlx_obd2b",
+      "category": "Pricing",
+      "subcategory": "Scooter",
+      "model": "ACTIVA DLX OBD 2B",
+      "title": "Activa DLX OBD 2B On-Road Price",
+      "content": "Activa DLX OBD 2B has a showroom price of INR 94,506. Road tax is INR 14,513, insurance costs INR 7,228, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 118,344. Basic accessories cost INR 6,500, making the final on-road price INR 124,844."
+    },
+    {
+      "id": "pricing_activa_smart_obd2b",
+      "category": "Pricing",
+      "subcategory": "Scooter",
+      "model": "ACTIVA SMART OBD 2B",
+      "title": "Activa Smart OBD 2B On-Road Price",
+      "content": "Activa Smart OBD 2B has a showroom price of INR 97,507. Road tax is INR 14,912, insurance costs INR 7,285, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 121,801. Basic accessories cost INR 6,500, making the final on-road price INR 128,301."
+    },
+    {
+      "id": "pricing_activa_dlx_ae_obd2b",
+      "category": "Pricing",
+      "subcategory": "Scooter",
+      "model": "ACTIVA DLX AE OBD 2B",
+      "title": "Activa DLX AE OBD 2B On-Road Price",
+      "content": "Activa DLX AE OBD 2B has a showroom price of INR 95,506. Road tax is INR 14,646, insurance costs INR 7,278, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 119,527. Basic accessories cost INR 6,500, making the final on-road price INR 126,027."
+    },
+    {
+      "id": "pricing_dio_std_obd2b",
+      "category": "Pricing",
+      "subcategory": "Scooter",
+      "model": "DIO STD OBD 2B",
+      "title": "Dio STD OBD 2B On-Road Price",
+      "content": "Dio STD OBD 2B has a showroom price of INR 79,444. Road tax is INR 12,507, insurance costs INR 6,936, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 100,984. Basic accessories cost INR 6,500, making the final on-road price INR 107,484."
+    },
+    {
+      "id": "pricing_dio_dlx_obd2b",
+      "category": "Pricing",
+      "subcategory": "Scooter",
+      "model": "DIO DLX OBD 2B",
+      "title": "Dio DLX OBD 2B On-Road Price",
+      "content": "Dio DLX OBD 2B has a showroom price of INR 91,299. Road tax is INR 14,086, insurance costs INR 7,165, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 114,647. Basic accessories cost INR 6,500, making the final on-road price INR 121,147."
+    },
+    {
+      "id": "pricing_activa_125_disc_obd2b",
+      "category": "Pricing",
+      "subcategory": "Scooter",
+      "model": "ACTIVA 125 DISC OBD 2B",
+      "title": "Activa 125 Disc OBD 2B On-Road Price",
+      "content": "Activa 125 Disc OBD 2B has a showroom price of INR 99,990. Road tax is INR 15,244, insurance costs INR 7,334, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 124,665. Basic accessories cost INR 6,500, making the final on-road price INR 131,165."
+    },
+    {
+      "id": "pricing_activa_125_smart_obd2b",
+      "category": "Pricing",
+      "subcategory": "Scooter",
+      "model": "ACTIVA 125 SMART OBD 2B",
+      "title": "Activa 125 Smart OBD 2B On-Road Price",
+      "content": "Activa 125 Smart OBD 2B has a showroom price of INR 104,071. Road tax is INR 22,718, insurance costs INR 7,413, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 136,299. Basic accessories cost INR 6,500, making the final on-road price INR 142,799."
+    },
+    {
+      "id": "pricing_activa_125_disc_ae_obd2b",
+      "category": "Pricing",
+      "subcategory": "Scooter",
+      "model": "ACTIVA 125 DISC AE OBD 2B",
+      "title": "Activa 125 Disc AE OBD 2B On-Road Price",
+      "content": "Activa 125 Disc AE OBD 2B has a showroom price of INR 100,990. Road tax is INR 22,103, insurance costs INR 7,384, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 132,574. Basic accessories cost INR 6,500, making the final on-road price INR 139,074."
+    },
+    {
+      "id": "pricing_dio_125_std_obd2b",
+      "category": "Pricing",
+      "subcategory": "Scooter",
+      "model": "DIO 125 STD OBD 2B",
+      "title": "Dio 125 STD OBD 2B On-Road Price",
+      "content": "Dio 125 STD OBD 2B has a showroom price of INR 97,417. Road tax is INR 14,901, insurance costs INR 7,284, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 121,699. Basic accessories cost INR 6,500, making the final on-road price INR 128,199."
+    },
+    {
+      "id": "pricing_dio_125_smart_obd2b",
+      "category": "Pricing",
+      "subcategory": "Scooter",
+      "model": "DIO 125 SMART OBD 2B",
+      "title": "Dio 125 Smart OBD 2B On-Road Price",
+      "content": "Dio 125 Smart OBD 2B has a showroom price of INR 102,812. Road tax is INR 22,467, insurance costs INR 7,388, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 134,764. Basic accessories cost INR 6,500, making the final on-road price INR 141,264."
+    },
+    {
+      "id": "pricing_shine_100_obd2b",
+      "category": "Pricing",
+      "subcategory": "Motorcycle",
+      "model": "SHINE 100 OBD 2B",
+      "title": "Shine 100 OBD 2B On-Road Price",
+      "content": "Shine 100 OBD 2B has a showroom price of INR 70,562. Road tax is INR 11,324, insurance costs INR 6,480, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 90,463. Basic accessories cost INR 3,500, making the final on-road price INR 93,963."
+    },
+    {
+      "id": "pricing_shine_100_dx_obd2b",
+      "category": "Pricing",
+      "subcategory": "Motorcycle",
+      "model": "SHINE 100 DX OBD 2B",
+      "title": "Shine 100 DX OBD 2B On-Road Price",
+      "content": "Shine 100 DX OBD 2B has a showroom price of INR 75,950. Road tax is INR 12,045, insurance costs INR 6,530, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 96,622. Basic accessories cost INR 3,500, making the final on-road price INR 100,122."
+    },
+    {
+      "id": "pricing_livo_drum_obd2b",
+      "category": "Pricing",
+      "subcategory": "Motorcycle",
+      "model": "LIVO DRUM OBD 2B",
+      "title": "Livo Drum OBD 2B On-Road Price",
+      "content": "Livo Drum OBD 2B has a showroom price of INR 85,476. Road tax is INR 13,310, insurance costs INR 6,648, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 107,531. Basic accessories cost INR 3,500, making the final on-road price INR 111,031."
+    },
+    {
+      "id": "pricing_livo_disc_obd2b",
+      "category": "Pricing",
+      "subcategory": "Motorcycle",
+      "model": "LIVO DISC OBD 2B",
+      "title": "Livo Disc OBD 2B On-Road Price",
+      "content": "Livo Disc OBD 2B has a showroom price of INR 88,274. Road tax is INR 13,683, insurance costs INR 6,728, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 110,782. Basic accessories cost INR 3,500, making the final on-road price INR 114,282."
+    },
+    {
+      "id": "pricing_shine_125_drum_obd2b",
+      "category": "Pricing",
+      "subcategory": "Motorcycle",
+      "model": "SHINE 125 DRUM OBD 2B",
+      "title": "Shine 125 Drum OBD 2B On-Road Price",
+      "content": "Shine 125 Drum OBD 2B has a showroom price of INR 86,890. Road tax is INR 13,499, insurance costs INR 6,802, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 109,288. Basic accessories cost INR 3,500, making the final on-road price INR 112,788."
+    },
+    {
+      "id": "pricing_shine_125_disc_obd2b",
+      "category": "Pricing",
+      "subcategory": "Motorcycle",
+      "model": "SHINE 125 DISC OBD 2B",
+      "title": "Shine 125 Disc OBD 2B On-Road Price",
+      "content": "Shine 125 Disc OBD 2B has a showroom price of INR 91,641. Road tax is INR 14,132, insurance costs INR 6,883, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 114,753. Basic accessories cost INR 3,500, making the final on-road price INR 118,253."
+    },
+    {
+      "id": "pricing_sp125_drum_obd2b",
+      "category": "Pricing",
+      "subcategory": "Motorcycle",
+      "model": "SP 125 DRUM OBD 2B",
+      "title": "SP 125 Drum OBD 2B On-Road Price",
+      "content": "SP 125 Drum OBD 2B has a showroom price of INR 94,640. Road tax is INR 14,531, insurance costs INR 6,748, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 118,016. Basic accessories cost INR 3,500, making the final on-road price INR 121,516."
+    },
+    {
+      "id": "pricing_sp125_disc_obd2b",
+      "category": "Pricing",
+      "subcategory": "Motorcycle",
+      "model": "SP 125 DISC OBD 2B",
+      "title": "SP 125 Disc OBD 2B On-Road Price",
+      "content": "SP 125 Disc OBD 2B has a showroom price of INR 99,999. Road tax is INR 15,245, insurance costs INR 6,961, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 124,302. Basic accessories cost INR 3,500, making the final on-road price INR 127,802."
+    },
+    {
+      "id": "pricing_cb125_hornet_obd2b",
+      "category": "Pricing",
+      "subcategory": "Motorcycle",
+      "model": "CB 125 HORNET OBD 2B",
+      "title": "CB 125 Hornet OBD 2B On-Road Price",
+      "content": "CB 125 Hornet OBD 2B has a showroom price of INR 112,000. Road tax is INR 24,303, insurance costs INR 6,980, extended warranty costs INR 897, and registration charges are INR 1,200. The total vehicle cost is INR 145,380. Basic accessories cost INR 3,500, making the final on-road price INR 148,880."
+    },
+    {
+      "id": "pricing_unicorn_obd2b",
+      "category": "Pricing",
+      "subcategory": "Motorcycle",
+      "model": "UNICORN OBD 2B",
+      "title": "Unicorn OBD 2B On-Road Price",
+      "content": "Unicorn OBD 2B has a showroom price of INR 120,527. Road tax is INR 26,006, insurance costs INR 11,622, extended warranty costs INR 1,114, and registration charges are INR 1,200. The total vehicle cost is INR 160,469. Basic accessories cost INR 3,500, making the final on-road price INR 163,969."
+    },
+    {
+      "id": "pricing_sp160_sig_disc_obd2b",
+      "category": "Pricing",
+      "subcategory": "Motorcycle",
+      "model": "SP 160 SIG DISC OBD 2B",
+      "title": "SP 160 Single Disc OBD 2B On-Road Price",
+      "content": "SP 160 Single Disc OBD 2B has a showroom price of INR 123,047. Road tax is INR 26,510, insurance costs INR 11,429, extended warranty costs INR 1,114, and registration charges are INR 1,200. The total vehicle cost is INR 163,300. Basic accessories cost INR 3,500, making the final on-road price INR 166,800."
+    },
+    {
+      "id": "pricing_sp160_dual_disc_obd2b",
+      "category": "Pricing",
+      "subcategory": "Motorcycle",
+      "model": "SP 160 DUAL DISC OBD 2B",
+      "title": "SP 160 Dual Disc OBD 2B On-Road Price",
+      "content": "SP 160 Dual Disc OBD 2B has a showroom price of INR 129,052. Road tax is INR 27,710, insurance costs INR 11,538, extended warranty costs INR 1,114, and registration charges are INR 1,200. The total vehicle cost is INR 170,614. Basic accessories cost INR 3,500, making the final on-road price INR 174,114."
+    },
+    {
+      "id": "pricing_hornet_obd2b",
+      "category": "Pricing",
+      "subcategory": "Motorcycle",
+      "model": "HORNET OBD 2B",
+      "title": "Hornet OBD 2B On-Road Price",
+      "content": "Hornet OBD 2B has a showroom price of INR 158,049. Road tax is INR 33,503, insurance costs INR 12,602, extended warranty costs INR 1,114, and registration charges are INR 1,200. The total vehicle cost is INR 206,468. Basic accessories cost INR 3,500, making the final on-road price INR 209,968."
+    },
+    {
+      "id": "pricing_nx200_obd2b",
+      "category": "Pricing",
+      "subcategory": "Motorcycle",
+      "model": "NX200 OBD 2B",
+      "title": "NX200 OBD 2B On-Road Price",
+      "content": "NX200 OBD 2B has a showroom price of INR 169,596. Road tax is INR 35,810, insurance costs INR 12,970, extended warranty costs INR 1,114, and registration charges are INR 1,200. The total vehicle cost is INR 220,690. Basic accessories cost INR 3,500, making the final on-road price INR 224,190."
+    }
+  ],
+  "vehicle specifications": [
+    {
+      "id": "spec_honda_livo",
+      "category": "Specifications",
+      "subcategory": "Motorcycle",
+      "model": "Honda Livo",
+      "title": "Honda Livo Technical Specifications",
+      "content": "Honda Livo is a motorcycle powered by a 109.51cc OBD2B-compliant 4-stroke SI engine producing 6.47 kW at 7500 rpm. It has a 9 litre fuel tank and delivers an estimated mileage of 70 kmpl. Tyres include 80/100-18 at the front and 80/100-18 at the rear. Braking is handled by a 240mm front disc or 130mm drum and a 130mm rear drum with CBS. Suspension consists of telescopic forks at the front and hydraulic type at the rear. Technologies include eSP, PGM-FI, ACG starter, and CBS. Safety features include CBS with equalizer and side stand engine cut-off. Core features include stylish design, digital meter, and alloy wheels. Available colors include Athletic Blue Metallic, Matte Axis Gray, Imperial Red Metallic, and Black. Seat height is 790 mm."
+    },
+    {
+      "id": "spec_honda_nx200",
+      "category": "Specifications",
+      "subcategory": "Motorcycle",
+      "model": "Honda NX200",
+      "title": "Honda NX200 Technical Specifications",
+      "content": "Honda NX200 is a motorcycle equipped with a 184.4cc OBD2B-compliant 4-stroke SI engine producing 12.5 kW at 8500 rpm. It has a 12 litre fuel tank and offers an estimated mileage of 35 kmpl. Tyres are 110/70-17 at the front and 140/70-17 at the rear. Braking is managed by a 276mm front disc and 220mm rear disc with dual channel ABS. Suspension includes USD forks at the front and a monoshock at the rear. Technology features include Honda RoadSync, HSTC, assist slipper clutch, PGM-FI, TFT display, Bluetooth, navigation, and USB-C charging. Safety features include dual channel ABS, HSTC, and hazard switch. Available colors are Athletic Blue Metallic, Radiant Red Metallic, and Pearl Igneous Black. Seat height is 810 mm."
+    },
+    {
+      "id": "spec_honda_shine_100",
+      "category": "Specifications",
+      "subcategory": "Motorcycle",
+      "model": "Honda Shine 100",
+      "title": "Honda Shine 100 Technical Specifications",
+      "content": "Honda Shine 100 is powered by a 100cc OBD2B-compliant 4-stroke SI engine producing 7.38 PS at 7500 rpm. It has a 9 litre fuel tank and an estimated mileage of 55 kmpl. The bike features alloy wheels with sizes not specified. Braking is via a Combi-Brake System with equalizer. Suspension consists of telescopic forks at the front and hydraulic suspension at the rear. Technology includes eSP, PGM-FI, and CBS. Safety features include CBS and side stand engine cut-off. Core features include stylish graphics, long seat, and lightweight frame. Available color options include Blue with Black, Gray with Black, Orange with Black, Red with Black, and Green with Black. Seat height is 786 mm."
+    },
+    {
+      "id": "spec_honda_shine_125",
+      "category": "Specifications",
+      "subcategory": "Motorcycle",
+      "model": "Honda Shine 125",
+      "title": "Honda Shine 125 Technical Specifications",
+      "content": "Honda Shine 125 uses a 123.94cc OBD2B-compliant 4-stroke SI engine producing 7.93 kW at 7500 rpm. It has a 10.5 litre fuel tank and offers an estimated mileage of 65 kmpl. Tyres include 80/100-18 at the front and 90/90-18 at the rear. Braking includes a 240mm front disc or 130mm drum and a 130mm rear drum with CBS. Suspension features telescopic forks at the front and hydraulic type at the rear. Technology highlights include eSP, PGM-FI, digital meter, idling stop system, ACG starter, and USB-C charging. Safety features include CBS and side stand engine cut-off. Available colors include Decent Blue Metallic, Pearl Siren Blue, Geny Gray Metallic, Rebel Red Metallic, Pearl Igneous Black, and Matte Axis Gray Metallic. Seat height is 719 mm."
+    },
+    {
+      "id": "spec_honda_sp125",
+      "category": "Specifications",
+      "subcategory": "Motorcycle",
+      "model": "Honda SP125",
+      "title": "Honda SP125 Technical Specifications",
+      "content": "Honda SP125 is powered by a 123.94cc OBD2B-compliant 4-stroke SI engine producing approximately 8.24 kW at 7500 rpm. It has an 11 litre fuel tank and an estimated mileage of 63 kmpl. Tyres include 80/100-18 at the front and 100/80-18 at the rear. Braking includes front disc or drum and rear drum with CBS. Suspension consists of telescopic forks at the front and hydraulic type at the rear. Technology features include eSP, PGM-FI, fully digital meter, idling stop system, and USB-C charging. Safety includes CBS with equalizer and engine cut-off. Core features include stylish design, digital console, and alloy wheels. Seat height is 790 mm."
+    },
+    {
+      "id": "spec_honda_sp160",
+      "category": "Specifications",
+      "subcategory": "Motorcycle",
+      "model": "Honda SP160",
+      "title": "Honda SP160 Technical Specifications",
+      "content": "Honda SP160 features a 162.71cc OBD2B-compliant 4-stroke SI engine producing 9.9 kW at 7500 rpm. It has a 12 litre fuel tank and delivers an estimated mileage of 50 kmpl. Tyres are 80/100-17 at the front and 130/70-17 at the rear. Braking includes a 276mm front disc with rear disc or drum depending on variant, with dual channel ABS on select variants. Suspension includes telescopic forks at the front and a monoshock at the rear. Technology includes eSP, PGM-FI, digital console, USB-C charging, and ABS. Safety features include ABS and engine cut-off. Seat height is 796 mm."
+    },
+    {
+      "id": "spec_honda_unicorn",
+      "category": "Specifications",
+      "subcategory": "Motorcycle",
+      "model": "Honda Unicorn",
+      "title": "Honda Unicorn Technical Specifications",
+      "content": "Honda Unicorn is powered by a 162.7cc OBD2B-compliant 4-stroke SI engine producing 9.5 kW at 7500 rpm. It has a 13 litre fuel tank and offers an estimated mileage of 60 kmpl. Tyres include 80/100-18 at the front and 100/90-18 at the rear. Braking is handled by a 240mm front disc and 130mm rear drum with single channel ABS. Suspension includes telescopic forks at the front and a monoshock at the rear. Technology includes PGM-FI and eSP. Safety features include single channel ABS and engine cut-off. Seat height is 798 mm."
+    },
+    {
+      "id": "spec_honda_activa_125",
+      "category": "Specifications",
+      "subcategory": "Scooter",
+      "model": "Honda Activa 125",
+      "title": "Honda Activa 125 Technical Specifications",
+      "content": "Honda Activa 125 is a scooter powered by a 123.92cc OBD2B-compliant 4-stroke SI engine producing 6.20 kW at 6500 rpm. It has a 5.3 litre fuel tank and an estimated mileage of 47 kmpl. Tyres include 90/90-12 at the front and 90/100-10 at the rear. Braking consists of a 190mm front disc and 130mm rear drum. Suspension includes telescopic front forks and 3-step adjustable spring-loaded hydraulic suspension at the rear. Technology features include LED headlamp, DC system, smart key, TFT meter, Honda RoadSync, idling stop system, PGM-FI, ACG starter, and USB-C charging. Safety features include side stand engine cut-off and CBS. Seat height is 165 mm."
+    },
+    {
+      "id": "spec_honda_dio_110",
+      "category": "Specifications",
+      "subcategory": "Scooter",
+      "model": "Honda Dio 110",
+      "title": "Honda Dio 110 Technical Specifications",
+      "content": "Honda Dio 110 is powered by a 109.51cc OBD2B-compliant 4-stroke SI engine producing 5.85 kW at 8000 rpm. It has a 5.3 litre fuel tank and an estimated mileage of 50 kmpl. Tyres include 90/90-12 at the front and 90/100-10 at the rear. Braking consists of 130mm drum brakes at both front and rear. Suspension includes telescopic forks at the front and a unit swing at the rear. Technology features include LED headlamp, TFT meter, idling stop system, USB-C charging, ACG silent start, and PGM-FI. Safety features include side stand engine cut-off and CBS. Available colors include Imperial Red Metallic, Matte Marvel Blue, Matte Axis Gray Metallic, Pearl Igneous Black, and Pearl Deep Ground Gray."
     }
   ]
 }
