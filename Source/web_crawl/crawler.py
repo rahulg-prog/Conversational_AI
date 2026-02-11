@@ -37,15 +37,47 @@ def crawl_and_convert(
 
 if __name__ == "__main__":
     urls = [
-        "https://www.honda2wheelersindia.com/services/maintenance/extended-warranty",
-        "https://www.honda2wheelersindia.com/services/maintenance/extended-warranty-plus",
-        "https://www.honda2wheelersindia.com/services/maintenance/annual-maintenance-contract",
-        "https://www.honda2wheelersindia.com/services/maintenance/road-side-assistance",
-        "https://www.honda2wheelersindia.com/services/maintenance/ev-care",
-        "https://www.honda2wheelersindia.com/services/maintenance/recall-campaign",
-        "https://www.honda2wheelersindia.com/services/maintenance/recall-campaign/product-recall-listing",
-        "https://www.honda2wheelersindia.com/services",
-        "https://www.honda2wheelersindia.com/services/maintenance",
-    ]
+    # Redwing Motorcycles
+    "https://www.honda2wheelersindia.com/motorcycle/shine-100",
+    "https://www.honda2wheelersindia.com/motorcycle/shine-100-dx",
+    "https://www.honda2wheelersindia.com/motorcycle/livo",
+    "https://www.honda2wheelersindia.com/motorcycle/shine-125",
+    "https://www.honda2wheelersindia.com/motorcycle/shine-125-limited-edition",
+    "https://www.honda2wheelersindia.com/motorcycle/sp-125",
+    "https://www.honda2wheelersindia.com/motorcycle/sp-125-anniversary-edition",
+    "https://www.honda2wheelersindia.com/motorcycle/CB125-Hornet",
+    "https://www.honda2wheelersindia.com/motorcycle/unicorn",
+    "https://www.honda2wheelersindia.com/motorcycle/sp-160",
+    "https://www.honda2wheelersindia.com/motorcycle/hornet-2-0",
+    "https://www.honda2wheelersindia.com/motorcycle/nx200",
 
+    # BigWing Motorcycles
+    "https://www.honda2wheelersindia.com/motorcycle/CB-300F",
+    "https://www.honda2wheelersindia.com/motorcycle/CB350",
+    "https://www.honda2wheelersindia.com/motorcycle/CB350C",
+    "https://www.honda2wheelersindia.com/motorcycle/CB350C-Special-Edition",
+    "https://www.honda2wheelersindia.com/motorcycle/cb350-hness",
+    "https://www.honda2wheelersindia.com/motorcycle/CB350RS",
+    "https://www.honda2wheelersindia.com/motorcycle/nx-500",
+    "https://www.honda2wheelersindia.com/motorcycle/CB650R",
+    "https://www.honda2wheelersindia.com/motorcycle/CBR650R",
+    "https://www.honda2wheelersindia.com/motorcycle/Hornet-750",
+    "https://www.honda2wheelersindia.com/motorcycle/xl750-transalp",
+    "https://www.honda2wheelersindia.com/motorcycle/hornet-1000-sp",
+    "https://www.honda2wheelersindia.com/motorcycle/x-adv",
+    "https://www.honda2wheelersindia.com/motorcycle/gold-wing",
+
+    # Scooters
+    "https://www.honda2wheelersindia.com/scooter/activa110",
+    "https://www.honda2wheelersindia.com/scooter/activa110-anniversary-edition",
+    "https://www.honda2wheelersindia.com/scooter/dio-110",
+    "https://www.honda2wheelersindia.com/scooter/activa125",
+    "https://www.honda2wheelersindia.com/scooter/activa125-anniversary-edition",
+    "https://www.honda2wheelersindia.com/scooter/dio-125",
+    "https://www.honda2wheelersindia.com/scooter/dio125-x-edition",
+
+    # EV (Electric Vehicles)
+    "https://www.honda2wheelersindia.com/e2w/products/activa-e",
+    "https://www.honda2wheelersindia.com/e2w/products/qc1"
+]
     crawl_and_convert(urls)
