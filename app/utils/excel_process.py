@@ -14,7 +14,7 @@ def process_xlsx_to_folder(file_path: str, output_folder: str = "kb_output"):
     base_dir = Path(output_folder)
     base_dir.mkdir(parents=True, exist_ok=True)
 
-    # Read all sheets
+    # Read all sheets 
     all_sheets = pd.read_excel(file_path, sheet_name=None)
     
     saved_files_count = 0
