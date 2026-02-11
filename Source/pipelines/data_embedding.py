@@ -10,22 +10,21 @@ from logger.custom_logger import CustomLogger
 from exception.custom_exception import DocumentPortalException
 from config.settings_loader import load_config
 from utils.folder_operation import FolderOperation
+from config.env_variables import Settings
 logger = CustomLogger().get_logger(__name__)
 
 from langchain_openai import OpenAIEmbeddings
 from langchain_chroma import Chroma
-from dotenv import load_dotenv
 
 class DataEmbedding:
     def __init__(self,chunks,path=None):
         try:
-            load_dotenv()
             self.config = load_config()
             self.chunks = chunks
             self.path = path
             self.embeddings = OpenAIEmbeddings(
                 model=self.config['model']['embedding_model'],
-                openai_api_key=os.getenv("OPENAI_API_KEY")
+                openai_api_key=Settings.OPENAI_API_KEY
             )
             self.persist_directory = f"{self.path}/{self.config['embedding']['persist_directory']}"
         except Exception as e:
