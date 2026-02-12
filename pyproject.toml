@@ -8,5 +8,7 @@ dependencies = [
     "crawl4ai>=0.8.0",
     "docling>=2.73.0",
     "langchain>=1.2.10",
+    "langchain-community>=0.4.1",
     "langchain-openai>=1.1.9",
+    "langchain-text-splitters>=1.1.0",
 ]
