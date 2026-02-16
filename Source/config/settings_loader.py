@@ -1,13 +1,13 @@
 from pathlib import Path
 import os
 import yaml
-from .env_variables import Settings
+from .env_variables import settings
 
 def _project_root() -> Path:
     return Path(__file__).resolve().parents[1]
 
 def load_config(config_path: str | None = None) -> dict:
-    env_path = Settings.CONFIG_PATH
+    env_path = settings.CONFIG_PATH
     if config_path is None:
         config_path = env_path or str(_project_root() / "config" / "config.yaml")
 

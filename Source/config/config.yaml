@@ -2,6 +2,7 @@
 data_ingestion:
   raw_data: Source\data\cleaned_data.json
   clean_data: Source\data\cleaned_data.json
+  markdown_data: Source\data\crawled_data
 
 constant:
   data_path: Source/data

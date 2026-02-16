@@ -16,7 +16,7 @@ class Settings(BaseSettings):
     LANGSMITH_PROJECT: str = os.getenv("LANGSMITH_PROJECT_NAME")
     
     #CONFIG PATH
-    CONFIG_PATH: str = os.getenv("CONFIG_PATH")
+    CONFIG_PATH: str = os.getenv("CONFIG_PATH","./config/config.yaml")
     class Config:
         env_file = ".env"
         
