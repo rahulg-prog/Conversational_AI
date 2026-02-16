@@ -54,7 +54,9 @@ class MarkdownCleaner:
         return content
 
     def _remove_markdown_links(self, content: str) -> str:
-        return re.sub(r"\[.*?\]\(.*?\)", "", content)
+        content = re.sub(r"\[[^\]]*\]\([^)]*\)", "", content)
+        content = re.sub(r"\(\s*\)", "", content)
+        return content
 
     def _remove_extra_blank_lines(self, content: str) -> str:
         return re.sub(r"\n{3,}", "\n\n", content)
