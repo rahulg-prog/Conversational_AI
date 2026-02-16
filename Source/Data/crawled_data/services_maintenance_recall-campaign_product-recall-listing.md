@@ -6,8 +6,6 @@ Disclaimer: To maintain safety and quality, the recall campaign aims to inspect/
 
 CB1000 Hornet SP
 
-<!-- image -->
-
 ### CB1000 Hornet SP
 
 Honda Motorcycle &amp; Scooter India has announced a voluntary campaign for CB1000 Hornet SP.
@@ -18,11 +16,9 @@ HMSI has identified that due to excessive radiant heat from the exhaust system s
 
 pedal pivot bolt may loosen and fall off while riding, which can affect gear shifting.
 
-[Read More](javascript:;return false;) [Check VIN](javascript:;;return false;)
+ 
 
 Africa Twin CRF1100
-
-<!-- image -->
 
 ### Africa Twin (CRF1100)
 
@@ -32,11 +28,9 @@ Honda Motorcycle &amp; Scooter India has announced a voluntary campaign for Afri
 
 The company has identified a concern with the motorcycle's throttle operation. During acceleration, the wheelie control system may get activated unexpectedly which in some cases may lead to loss of balance.
 
-[Read More](javascript:;return false;) [Check VIN](javascript:;;return false;)
+ 
 
 Goldwing
-
-<!-- image -->
 
 ### Goldwing
 
@@ -46,11 +40,9 @@ Goldwing
 
 2. Inspection and Replacement of Fuel Pump
 
-[Read More](javascript:void(0);return false;) [Check VIN](javascript:;;return false;)
+;return false;) 
 
 CBR1000RR
-
-<!-- image -->
 
 ### CBR1000RR
 
@@ -60,11 +52,9 @@ Honda Motorcycle &amp; Scooter India today announced a voluntary recall for limi
 
 As per defect information, the fuel pump impellers may have been improperly molded, which can cause them to deform and result in fuel pump failure. If the fuel pump module becomes inoperative, the engine may not start or can stall without indication while riding.
 
-[Read More](javascript:void(0);return false;) [Check VIN](javascript:;;return false;)
+;return false;) 
 
 Default Alt
-
-<!-- image -->
 
 ### H'ness CB350
 
@@ -78,11 +68,9 @@ Default Alt
 
 4. Front &amp; Rear Wheel Speed Sensor
 
-[Read More](javascript:void(0);return false;) [Check VIN](javascript:;;return false;)
+;return false;) 
 
 Default Alt
-
-<!-- image -->
 
 ### CB350RS
 
@@ -96,11 +84,9 @@ Default Alt
 
 4. Front &amp; Rear Wheel Speed Sensor
 
-[Read More](javascript:void(0);return false;) [Check VIN](javascript:;;return false;)
+;return false;) 
 
 Default Alt
-
-<!-- image -->
 
 ### CB300R
 
@@ -110,11 +96,9 @@ Default Alt
 
 2. Front &amp; Rear Wheel Speed Sensor
 
-[Read More](javascript:void(0);return false;) [Check VIN](javascript:;;return false;)
+;return false;) 
 
 Default Alt
-
-<!-- image -->
 
 ### CB350
 
@@ -124,11 +108,9 @@ Default Alt
 
 2. Front &amp; Rear Wheel Speed Sensor
 
-[Read More](javascript:void(0);return false;) [Check VIN](javascript:;;return false;)
+;return false;) 
 
 Default Alt
-
-<!-- image -->
 
 ### CB300F
 
@@ -138,11 +120,9 @@ Honda Motorcycle &amp; Scooter India has announced a voluntary campaign for CB30
 
 It has been observed that due to an improper molding procedure being followed, water may seep into the wheel speed sensor. This may lead to a speed sensor malfunction causing error in the speedometer, traction control or ABS intervention. In worst the case scenario, it may result in ineffective braking.
 
-[Read More](javascript:void(0);return false;) [Check VIN](javascript:;;return false;)
+;return false;) 
 
 Africa Twin
-
-<!-- image -->
 
 ### Africa Twin (CRF1100)
 
@@ -152,11 +132,9 @@ Explore its price, mileage, engine specs, colours, reviews and more.
 
 Click to know more.
 
-[Read More](javascript:;return false;) [Check VIN](javascript:;;return false;)
+ 
 
 CB1000 Hornet SP
-
-<!-- image -->
 
 ### CB1000 Hornet SP
 
@@ -166,11 +144,9 @@ Honda Motorcycle &amp; Scooter India has announced a voluntary campaign for CB10
 
 HMSI has identified that oil consumption rate in some vehicles with defective parts may increase significantly. If driving continues without noticing the decrease in oil level, a drop in oil pressure may lead to seizure of the connecting rod metal and connecting rod breakage, which could result in rear wheel lock. Additionally, discharged oil may come into contact with the muffler when it is at high temperature, which may lead to a vehicle fire.
 
-[Read More](javascript:;return false;) [Check VIN](javascript:;;return false;)
+ 
 
 Default Alt
-
-<!-- image -->
 
 ### CBR650R
 
@@ -184,7 +160,7 @@ vibration over time could cause a short circuit. This may lead to some lights no
 
 requirements.
 
-[Read More](javascript:;return false;) [Check VIN](javascript:;;return false;)
+ 
 
 ## Frequently Asked Questions
 
@@ -192,15 +168,11 @@ requirements.
 
 Arrow
 
-<!-- image -->
-
 To check if your motorcycle is recalled, select the model and enter the 17-digit VIN/CHASSIS number
 
 ##### 2. What should I do if my motorcycle is recalled?
 
 Arrow
-
-<!-- image -->
 
 If your motorcycle is recalled, you should contact the nearest HSMI dealership. It is advised to book an appointment in advance to avoid inconvenience and waiting.
 
@@ -208,15 +180,11 @@ If your motorcycle is recalled, you should contact the nearest HSMI dealership. 
 
 Arrow
 
-<!-- image -->
-
 No, irrespective of the warranty status, the recall repair will be carried out free of cost.
 
 ##### 4. Where will the replacement be carried out?
 
 Arrow
-
-<!-- image -->
 
 The replacement will be carried out at BigWing/BigWing Topline dealerships across India.
 
@@ -224,15 +192,11 @@ The replacement will be carried out at BigWing/BigWing Topline dealerships acros
 
 Arrow
 
-<!-- image -->
-
 The time taken for the replacement depends on the issue identified with the vehicle.
 
 ##### 6. Where can I find the VIN number for my bike?
 
 Arrow
-
-<!-- image -->
 
 You can find the VIN / Frame number from any of the following documents:
 

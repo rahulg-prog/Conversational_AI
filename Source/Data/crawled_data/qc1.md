@@ -1,57 +1,13 @@
-# [Header](\e2w)
-
-[EV Brand](\e2w\brand)
-
-[Products](#)
+# 
 
 activa e:
 
-<!-- image -->
-
-[Activa e:](\e2w\products\activa-e)
-
 qc1
 
-<!-- image -->
-
-[QC1](\e2w\products\qc1)
-
-[All Products](\e2w\products)
-
-[Accessories](\e2w\accessories)
-
-[Technology](\e2w\technology)
-
-[Find &amp; Experience](#)
-
-[Find a Dealer](https://www.honda2wheelersindia.com/dealer-locator)
-
-[Experience center](\e2w\experience-center)
-
-[EV Supports](#)
-
-[Charging](\e2w\charging)
-
-[After sales service](\e2w\service)
-
-[FAQ](\e2w\faq)
-
-[Contact us](https://www.honda2wheelersindia.com/contact-us)
-
-[News](\e2w\news)
-
-[News](\e2w\news)
-
-[SNS icons](#)
-
-- [English](\content\e2w\apac\india\en\qc\language-navigation.html)
-- [हिन्दी](\content\e2w\apac\india\hi\qc\language-navigation.html)
-
-[Honda Top](https://www.honda2wheelersindia.com/)
+- 
+- 
 
 the model image
-
-<!-- image -->
 
 # Go New. Go Far.
 
@@ -60,8 +16,6 @@ the model image
 The Honda QC1 is perfect for today's on-the-go lifestyle, offering smooth, smart, and fun rides. Ideal for eco-conscious users, it's reliable, practical, and free of unnecessary complexity.
 
 QC1
-
-<!-- image -->
 
 80 km (IDC)
 
@@ -79,21 +33,11 @@ From ₹ 90022*/-
 
 *Price may vary according to model and region.
 
-[Book Now](https://www.honda2wheelersindia.com/enquire-now)
-
-[Attraction](#attractionID)
-
-[Color](#ColorID)
-
-[Specifications](#SpecificationsID)
-
 ## Comfort &amp; Convenience
 
 With roomy design, smart storage, a vivid LCD display, and on-the-go USB-C charging, the QC1 ensures every ride is as comfortable as it is convenient.
 
 CUV e: overview
-
-<!-- image -->
 
 ### Spacious Floor
 
@@ -101,15 +45,11 @@ Ample room for comfort and stability.
 
 7inch screen
 
-<!-- image -->
-
 ### Seat Height, Ground Clearance and Wheelbase
 
 Easy and comfortable ride for all.
 
 Smart key
-
-<!-- image -->
 
 ### LCD Display
 
@@ -121,15 +61,11 @@ From adaptive ride modes to sleek lighting, agile alloy wheels, and safety-focus
 
 ride the road
 
-<!-- image -->
-
 ### Advanced Motor with Ride Modes
 
 The QC1 features an advanced in-wheel motor that adapts seamlessly to your ride. Choose between Standard Mode or the efficient Economy Mode to suit your style.
 
 Three mode
-
-<!-- image -->
 
 ### LED Headlight
 
@@ -137,15 +73,11 @@ See far, drive safe - even on the darkest roads.
 
 Reverse Assist
 
-<!-- image -->
-
 ### LED Tail Lamp &amp; Clear Winkers
 
 Stylish lighting that makes sure you're seen wherever you go.
 
 Front Black Alloy Wheel
-
-<!-- image -->
 
 ### Front Black Alloy Wheel
 
@@ -153,15 +85,11 @@ Built for agility, designed for style.
 
 Sleek Rear Looks
 
-<!-- image -->
-
 ### Sleek Rear Looks
 
 Complimenting the overall smooth &amp; futuristic design.
 
 Sturdy Grabrail
-
-<!-- image -->
 
 ### Sturdy Grabrail
 
@@ -173,23 +101,17 @@ Powered by a long-lasting 1.5 kWh Li-ion battery and a smart 330W CAN-controlled
 
 home charge
 
-<!-- image -->
-
 ### Battery and Cell
 
 The QC1 is equipped with a fixed 1.5 kWh Li-ion battery, utilizing BP Cell Chemistry. This advanced chemistry offers benefits such as high energy density and an extended life cycle.
 
 Swapping batteries in the station
 
-<!-- image -->
-
 ### 330W Off-Board Charger
 
 The user-friendly charger allows you to easily charge from a standard 6A household power socket. Experience a safe and efficient charging process with CAN controlled auto-cut technology, giving you peace of mind every time.
 
 CAN Auto Cut Charger
-
-<!-- image -->
 
 ### CAN Auto Cut Charger
 
@@ -213,21 +135,15 @@ Riding Modes
 
 smart key system
 
-<!-- image -->
-
 ### 26L Under Seat Storage
 
 Spacious enough for a helmet, charger, and your essentials.
 
 Pocket for plastic bottles
 
-<!-- image -->
-
 ### Inner Pocket with 15W USB-C Port
 
 Enjoy your ride. It provides quick charging to your smartphone, power bank, earphones on the go.
-
-[Book Now](https://www.honda2wheelersindia.com/enquire-now)
 
 ## Specifications
 
@@ -443,11 +359,7 @@ Warranty
 
 Vehicle Warranty - 3-Years / 50000 kms (whichever comes first)  Charger Warranty - 3-years/50000 kms  (whichever comes first)   Battery Warranty - 3-years/50000 kms  (whichever comes first)
 
-### [QC1: Brochure](\content\dam\e2w\apac\india\products\qc1\QC1.pdf.coredownload.pdf)
-
-[PDF 3 MB](\content\dam\e2w\apac\india\products\qc1\QC1.pdf.coredownload.pdf)
-
-[Book Now](https://www.honda2wheelersindia.com/enquire-now)
+### 
 
 ## Accessories
 
@@ -455,15 +367,11 @@ For a more convenient life
 
 45L Smart Top Box
 
-<!-- image -->
-
 ### Seat Cover- QC1
 
 This premium black and blue seat cover for QC1 combines protection with distinctive styling and enhanced comfort.
 
 Clear Windshield
-
-<!-- image -->
 
 ### Mat Floor Colored With Locks
 
@@ -471,46 +379,40 @@ This black and blue floor mat with illuminating features adds unique style and p
 
 Clear Knuckle Guard
 
-<!-- image -->
-
 ### Mirror Cover (Pearl Serenity Blue)
 
 These pearl serenity blue mirror covers add a distinctive colour accent to your QC1 or Activa e:
 
-[Book Now](https://www.honda2wheelersindia.com/enquire-now)
-
 cuve last
-
-<!-- image -->
 
 ### The Future is Here
 
 Honda is accelerating its efforts toward a zero environmental impact society to deliver the Joy of Freedom of Mobility everywhere. The Activa e: pioneers Honda's electrification.
 
-#### [EV Brand](\e2w\brand)
+#### 
 
 #### Products
 
-- [Activa e:](\e2w\products\activa-e)
-- [QC1](\e2w\products\qc1)
-- [All Products](\e2w\products)
-- [Accessories](\e2w\accessories)
+- 
+- 
+- 
+- 
 
-#### [Technology](\e2w\technology)
+#### 
 
 #### Find &amp; Experience
 
-- [Find a Dealer](https://www.honda2wheelersindia.com/dealer-locator)
-- [Experience center](\e2w\experience-center)
+- 
+- 
 
 #### EV Supports
 
-- [Charging](\e2w\charging)
-- [After sales service](\e2w\service)
-- [FAQ](\e2w\faq)
-- [Contact us](https://www.honda2wheelersindia.com/contact-us)
+- 
+- 
+- 
+- 
 
-#### [News](\e2w\news)
+#### 
 
 Privacy &amp; Terms of Use
 

@@ -8,8 +8,6 @@ HMSI is focused on protecting the asset value through world class maintenance, e
 
 Placeholder image
 
-<!-- image -->
-
 Honda Care Package
 
 To ensure a seamless and satisfying journey with electric vehicle, every EV customer is entitled to a complimentary Honda Care Package.
@@ -25,8 +23,6 @@ What's Included:
 We are committed to delivering peace of mind, convenience, and continuous support throughout your ownership experience.
 
 Placeholder image
-
-<!-- image -->
 
 Honda Care Plus
 
@@ -64,15 +60,11 @@ What's Included:
 
 Arrow
 
-<!-- image -->
-
 Care Plus package includes: 2-year Extended Warranty (EW), 4 Year Annual Maintenance Package (AMC), 4 Year Road Side Assistance (RSA) and discount on battery replacement after warranty period.
 
 ##### 2. Is Honda care plus package transferable in case of vehicle sale?
 
 Arrow
-
-<!-- image -->
 
 Honda care plus package is transferable to subsequent owners but not transferable to another Vehicle.
 
@@ -80,15 +72,11 @@ Honda care plus package is transferable to subsequent owners but not transferabl
 
 Arrow
 
-<!-- image -->
-
 Yes, This package is valid across India. The customer can avail the benefits at any Authorized EV Honda Dealer in any city.
 
 ##### 4. Till what period of vehicle purchase a customer can buy Honda care plus package?
 
 Arrow
-
-<!-- image -->
 
 Customer can purchase this package within 30 days of vehicle purchase.
 
@@ -96,22 +84,16 @@ Customer can purchase this package within 30 days of vehicle purchase.
 
 Arrow
 
-<!-- image -->
-
 Yes, the Honda Care Plus package includes labour charge for 8 paid services over 4 years, starting after 1st year free service period ends. Customer only needs to pay for consumable and parts.
 
 ##### 7. How can I purchase the Honda care Plus package for my Honda EV?
 
 Arrow
 
-<!-- image -->
-
 You can purchase the Honda care package form Authorized EV Honda Dealer at the time of vehicle purchase or within the 30 days of purchase of vehicle.
 
 ##### 8. What is the cost for Honda care package and is finance facility available to purchase?
 
 Arrow
-
-<!-- image -->
 
 The cost of Honda care package is priced at Rs 9900. Customer can opt Honda care plus package along with new vehicle purchase to avail financing benefits.

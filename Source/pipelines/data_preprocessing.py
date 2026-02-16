@@ -54,8 +54,18 @@ class MarkdownCleaner:
         return content
 
     def _remove_markdown_links(self, content: str) -> str:
+        # Remove markdown links [text](url)
         content = re.sub(r"\[[^\]]*\]\([^)]*\)", "", content)
+
+        # Remove empty parentheses
         content = re.sub(r"\(\s*\)", "", content)
+
+        # Remove lines that contain only a closing parenthesis
+        content = re.sub(r"^\s*\)\s*$", "", content, flags=re.MULTILINE)
+
+        # Remove standalone opening parentheses lines
+        content = re.sub(r"^\s*\(\s*$", "", content, flags=re.MULTILINE)
+
         return content
 
     def _remove_extra_blank_lines(self, content: str) -> str:

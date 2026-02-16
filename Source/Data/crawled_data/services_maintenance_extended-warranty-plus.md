@@ -5,65 +5,46 @@ Flexible Option for Customer to Opt. Warranty at any point of time up-to 10 Yrs.
 - RedWing Motorcycles
 RedWing Motorcycles
 
-<!-- image -->
 - RedWing Scooters
 RedWing Scooters
 
-<!-- image -->
 - BigWing Motorcycles
 BigWing Motorcycles
-
-<!-- image -->
-
-<!-- image -->
 
 ### Hassle-free Electric Freedom*
 
 EV Icon
-
-<!-- image -->
 
 ## Honda Care Plus Package
 
 - Warranty: 3 Years Standard + 2 Years Extended
 Extend Warranty
 
-<!-- image -->
 - Maintenance: 1 Year 3 Free Services, Next 4 Years 8 Free Services
 Service by Expert
 
-<!-- image -->
 - Roadside Assistance: 1 Year Free + 4 Additional Years
 Roadside Assistance
 
-<!-- image -->
 - Lifetime Benefit: ₹2000 off on Battery Replacement (Honda GC-1 model)
 Lifetime Benefit
 
-<!-- image -->
 - Nation-Wide Coverage: Coverage Everywhere, Support Everywhere
 Across India Validity
 
-<!-- image -->
 - Transferable Benefits: Boost Resale Value with Transferable Benefits
 Good Resale Value
-
-<!-- image -->
 
 ## Benefits of Extended Warranty Plus
 
 - Warranty: 3 Years Standard + 2 Years Extended
 Extend Warranty
 
-<!-- image -->
 - Roadside Assistance: 1 Year Free + 4 Additional Years
 Roadside Assistance
 
-<!-- image -->
 - Maintenance: 1 Year 3 Free Services, Next 4 Years 8 Free Services
 Service by Expert
-
-<!-- image -->
 
 *Avail the additional benefits of the Honda Care Plus package now priced at Rs. 9900/- including taxes.
 
@@ -73,15 +54,11 @@ Service by Expert
 
 Arrow
 
-<!-- image -->
-
 Care Plus package includes : 2 year Extended Warranty (EW), 4 Year Annual Maintenance Package (AMC), 4 Year Road Side Assistance (RSA)
 
 ##### 2. Is Honda care plus package transferable in case of vehicle sale?
 
 Arrow
-
-<!-- image -->
 
 Honda care plus package is transferable to subsequent owners but not transferable to another Vehicle.
 
@@ -89,25 +66,17 @@ Honda care plus package is transferable to subsequent owners but not transferabl
 
 Arrow
 
-<!-- image -->
-
 Yes, This package is valid across India. The customer can avail the benefits at any Authorized EV Honda Dealer in any city.
 
 ##### 4. Will EV care package void if customer miss the periodic service?
 
 Arrow
 
-<!-- image -->
-
 It is important to get periodic checks done by the trained service technicians to ensure optimum performance of the vehicle.
 
 Hence, warranty will be void if any periodic maintenance scheduled service is missed.
 
-<!-- image -->
-
 extended-warranty-plus-img
-
-<!-- image -->
 
 ## 
 
@@ -123,8 +92,6 @@ extended-warranty-plus-img
 
 For Scooter
 
-<!-- image -->
-
 ### 
 
 ## Features of Extended Warranty Plus
@@ -132,19 +99,15 @@ For Scooter
 - Major Parts Covered at Minimum Cost
 Major Parts Covered
 
-<!-- image -->
 - Across India Validity
 Across India Validity
 
-<!-- image -->
 - Reliable and Genuine Honda Parts
 Reliable And Genuine
 
-<!-- image -->
 - Service by Expert Honda Technicians
 Service by Expert
 
-<!-- image -->
 - Transferable in Case of Change of Ownership
 Transferable
 
@@ -153,27 +116,20 @@ Transferable
 - Wide Coverage of Parts Under Warranty Upto 10 Years
 10 years
 
-<!-- image -->
 - Enhances Resale Value of Your Two-wheeler
 Enhances Resale Value
 
-<!-- image -->
 - Renewal Option Available
 Renewal Option
 
-<!-- image -->
 - Peace of Mind as Applicable Anywhere in India
 Peace of mind
 
-<!-- image -->
 - Highest Service Standards Followed
 High Value Parts
 
-<!-- image -->
 - Benchmark Unique Initiative in Two Wheelers Industry
 Bench Mark
-
-<!-- image -->
 
 ## Frequently Asked Questions
 
@@ -181,15 +137,11 @@ Bench Mark
 
 Arrow
 
-<!-- image -->
-
 No, EW plus can be purchased after 90 days from vehicle sale date.
 
 ##### 2. I already opted for extended warranty for 3 year, can I purchase the EW Plus after 90 days of vehicle sale date ?
 
 Arrow
-
-<!-- image -->
 
 Yes, EW plus can be purchased even you have active extended warranty policy, In that case the warranty policy will be added further. [E.g. In case of BS VI vehicle, 3 Yr standard warranty + 3 Year EW + 3 Year EW Plus, Total warranty period will be 9 Years. (Can extend till the 9th year of vehicle age)
 
@@ -197,23 +149,17 @@ Yes, EW plus can be purchased even you have active extended warranty policy, In 
 
 Arrow
 
-<!-- image -->
-
 120 days is the cooling period for claiming the EW plus benefits (claim can be entertained after 120 days of policy purchase)
 
 ##### 4. Is periodic service mandatory to purchase EW Plus?
 
 Arrow
 
-<!-- image -->
-
 Yes, Periodic Service is must to ensure Vehicle Fitness, Periodic service done during last 120 days from policy purchase date can be considered for vehicle fitness. Dealer will check &amp; confirm the fitness of vehicle before selling the policy to customer.
 
 ##### 5. What is the Additional Kms. coverage for EW Plus?
 
 Arrow
-
-<!-- image -->
 
 In EW plus for scooter &amp; motorcycle additional km coverage is 12000Kms./Year.
 
@@ -227,15 +173,9 @@ For  1 Year Policy  it is 12000 Kms.
 
 Arrow
 
-<!-- image -->
-
 Yes, extended warranty plus comes with PAN India validity on honda2wheelers.
 
-<!-- image -->
-
 extended-warranty-plus-img
-
-<!-- image -->
 
 ## 
 
@@ -251,8 +191,6 @@ extended-warranty-plus-img
 
 For Motorcycle
 
-<!-- image -->
-
 ### 
 
 ## Features of Extended Warranty Plus
@@ -260,50 +198,37 @@ For Motorcycle
 - Benchmark Unique Initiative in Two Wheelers Industry
 Bench Mark
 
-<!-- image -->
 - Major Parts Covered at Minimum Cost
 Major Parts Covered
 
-<!-- image -->
 - Reliable and Genuine Honda Parts
 Reliable And Genuine
 
-<!-- image -->
 - Service by trained Honda Technicians
 Service by Expert
 
-<!-- image -->
 - Transferable in Case of Change of Ownership
 Transferable
-
-<!-- image -->
 
 ## Benefits of Extended Warranty Plus
 
 - Wide Coverage of Parts Under Warranty Upto 10 Years
 10 years
 
-<!-- image -->
 - Enhances Resale Value of Your Two-wheeler
 Enhances Resale Value
 
-<!-- image -->
 - Across India Validity
 Across India Validity
 
-<!-- image -->
 - Renewal Option Available
 Renewal Option
 
-<!-- image -->
 - Peace of Mind as Applicable Anywhere in India
 Peace of mind
 
-<!-- image -->
 - Highest Service Standards Followed
 High Value Parts
-
-<!-- image -->
 
 ## Frequently Asked Questions
 
@@ -311,15 +236,11 @@ High Value Parts
 
 Arrow
 
-<!-- image -->
-
 No, EW plus can be purchased after 90 days from vehicle sale date.
 
 ##### 2. I already opted for extended warranty for 3 year, can I purchase the EW Plus after 90 days of vehicle sale date ?
 
 Arrow
-
-<!-- image -->
 
 Yes, EW plus can be purchased even you have active extended warranty policy, In that case the warranty policy will be added further. [E.g. In case of BS VI vehicle, 3 Yr standard warranty + 3 Year EW + 3 Year EW Plus, Total warranty period will be 9 Years.
 
@@ -327,23 +248,17 @@ Yes, EW plus can be purchased even you have active extended warranty policy, In 
 
 Arrow
 
-<!-- image -->
-
 120 days is the cooling period for claiming the EW plus benefits (claim can be entertained after 120 days of policy purchase)
 
 ##### 4. Is periodic service mandatory to purchase EW Plus?
 
 Arrow
 
-<!-- image -->
-
 Yes, Periodic Service is must to ensure Vehicle Fitness, Periodic service done during last 120 days from policy purchase date can be considered for vehicle fitness. Dealer will check &amp; confirm the fitness of vehicle before selling the policy to customer.
 
 ##### 5. What is the Additional Kms. coverage for EW Plus?
 
 Arrow
-
-<!-- image -->
 
 In EW plus for scooter &amp; motorcycle additional km coverage is 12000Kms./Year.
 
@@ -357,17 +272,11 @@ For  1 Year Policy  it is 12000 Kms.
 
 Arrow
 
-<!-- image -->
-
 Yes, extended warranty plus comes with PAN India validity on honda2wheelers.
-
-<!-- image -->
 
 ### Package as per Motorcycles
 
 For BigWing
-
-<!-- image -->
 
 |                                                       | CB300R, CB300F, CB350, CB350RS and CB350 H'ness   | CB300R, CB300F, CB350, CB350RS and CB350 H'ness   | CB300R, CB300F, CB350, CB350RS and CB350 H'ness   | CB300R, CB300F, CB350, CB350RS and CB350 H'ness   | CB300R, CB300F, CB350, CB350RS and CB350 H'ness   |
 |-------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
@@ -380,8 +289,6 @@ For BigWing
 |                                                       | Product 6                                         | 9th Year: 2921 - 3285                             | 1 Year                                            | 12,000 Kms.                                       |                                                   |
 
 For BigWing
-
-<!-- image -->
 
 ### 
 
@@ -397,35 +304,26 @@ For BigWing
 - Extend Warranty Plus Till 10 Years or Up to 1,30,000 Kms.
 Extend Warranty
 
-<!-- image -->
 - Flexible Product Range Offered to Extend 3 to 10-year Warranty
 Flexible Product Range
 
-<!-- image -->
 - Flexible Buying Option (Lucrative Product Price Depending Upon Buying Period)
 Flexible Buying Option
 
-<!-- image -->
 - Major Parts Covered at Minimum Cost
 Major Parts Covered
-
-<!-- image -->
 
 ## Benefits of Extended Warranty Plus
 
 - Peace of Mind
 Peace of mind
 
-<!-- image -->
 - Cost-effective
 Cost Effective
 
-<!-- image -->
 - High-Value Parts Covered
 High Value Parts
 
-<!-- image -->
 - Better/Good Resale Value
 Good Resale Value
 
-<!-- image -->

@@ -5,23 +5,16 @@ Roadside Assistance Program is part of the Value-Added Services. It is there to 
 - RedWing Motorcycles
 RedWing Motorcycles
 
-<!-- image -->
 - RedWing Scooters
 RedWing Scooters
 
-<!-- image -->
 - BigWing Motorcycles
 BigWing Motorcycles
 
-<!-- image -->
 - EV
 EV
 
-<!-- image -->
-
 For BigWing
-
-<!-- image -->
 
 ### Overall RSA features
 
@@ -54,62 +47,46 @@ For BigWing
 - Assured Service Support During Vehicle Breakdown
 Assured service support during vehicle breakdown
 
-<!-- image -->
 - Unlimited Kms. Vehicle Towing
 Unlimited Kms vehicle towing
 
-<!-- image -->
 - Flexible Product Range
 Flexible product range
 
-<!-- image -->
 - Fuel and Taxi Assistance Up To 5 ltr. and 50 km
 Fuel and Taxi assistance up to 5Ltr and 50Km
 
-<!-- image -->
 - On Site Repairs (Minor)
 Icon
 
-<!-- image -->
 - Assistance Anywhere in India During Breakdown
 Assistance anywhere in India during breakdown
-
-<!-- image -->
 
 ## Small Fun Customers
 
 - Assured Service Support During Vehicle Breakdown
 Assured service support during vehicle breakdown
 
-<!-- image -->
 - Good Towing Coverage Up To 300 kms.
 Icon
 
-<!-- image -->
 - Fuel and Taxi Assistance Up To 5 ltr. and 50 kms.
 Icon
 
-<!-- image -->
 - On Site Repairs (Minor)
 Icon
 
-<!-- image -->
 - Contact Through Toll Free Number - 1800-209-2224
 Icon
 
-<!-- image -->
 - Assistance Anywhere in India During Breakdown
 Assistance anywhere in India during breakdown
 
-<!-- image -->
-
-<!-- image -->
-
 ### Your Pride... Our Assistance
 
 Get in touch with our experts today.
 
-We are available 24X7 to assist you. Our roadside assistance representative will be there for you to provide fast, reliable service. For assistance, call our toll free no [1800 209 2224](tel:1800 209 2224)
+We are available 24X7 to assist you. Our roadside assistance representative will be there for you to provide fast, reliable service. For assistance, call our toll free no 
 
 ## Frequently Asked Questions
 
@@ -117,15 +94,11 @@ We are available 24X7 to assist you. Our roadside assistance representative will
 
 Arrow
 
-<!-- image -->
-
 Honda Roadside Assistance (RSA) is your safety net in case of unexpected breakdowns or emergencies while riding your Honda. It provides a range of services to assist you in every step of the way. These include towing, on-site minor repairs, fuel delivery and more, ensuring you're not stranded and can get back on the road quickly and safely.
 
 ##### 2. Is RSA available for all Honda two-wheelers?
 
 Arrow
-
-<!-- image -->
 
 Absolutely! Honda RSA is available for all Honda 2 wheelers (motorcycles, scooters), EVs, and premium BigWing motorcycles.
 
@@ -133,15 +106,11 @@ Absolutely! Honda RSA is available for all Honda 2 wheelers (motorcycles, scoote
 
 Arrow
 
-<!-- image -->
-
 Customers who purchase a new Honda motorcycle or scooter (upto 7th yr of vehicle from purchased date) are eligible for Roadside Assistance. You can find detailed information about eligibility by contacting your nearest Honda dealer.
 
 ##### 4. What's the difference between RSA and an extended warranty?
 
 Arrow
-
-<!-- image -->
 
 While Honda RSA focuses on support during emergency situations like breakdowns, an extended warranty covers manufacturing defects and mechanical repairs for an extended period. Both services are designed to help you to a worry-free ownership experience.
 
@@ -149,17 +118,13 @@ While Honda RSA focuses on support during emergency situations like breakdowns, 
 
 Arrow
 
-<!-- image -->
-
 Definitely! If you didn't opt for RSA during the vehicle purchase, you can still add it later. Visit your nearest Honda dealer, and they'll help you enrol in the program.
-
-<!-- image -->
 
 ### Your Pride... Our Assistance
 
 Get in touch with our experts today.
 
-We are available 24X7 to assist you. Our roadside assistance representative will be there for you to provide fast, reliable service. For assistance, call our toll free no [1800 209 2224](tel:1800 209 2224)
+We are available 24X7 to assist you. Our roadside assistance representative will be there for you to provide fast, reliable service. For assistance, call our toll free no 
 
 ## Frequently Asked Questions
 
@@ -167,15 +132,11 @@ We are available 24X7 to assist you. Our roadside assistance representative will
 
 Arrow
 
-<!-- image -->
-
 Honda Roadside Assistance (RSA) is your safety net in case of unexpected breakdowns or emergencies while riding your Honda. It provides a range of services to assist you in every step of the way. These include towing, on-site minor repairs, fuel delivery and more, ensuring you're not stranded and can get back on the road quickly and safely.
 
 ##### 2. Is RSA available for all Honda two-wheelers?
 
 Arrow
-
-<!-- image -->
 
 Absolutely! Honda RSA is available for all Honda 2 wheelers (motorcycles, scooters), EVs, and premium BigWing motorcycles.
 
@@ -183,15 +144,11 @@ Absolutely! Honda RSA is available for all Honda 2 wheelers (motorcycles, scoote
 
 Arrow
 
-<!-- image -->
-
 Customers who purchase a new Honda motorcycle or scooter (upto 7th yr of vehicle from purchased date) are eligible for Roadside Assistance. You can find detailed information about eligibility by contacting your nearest Honda dealer.
 
 ##### 4. What's the difference between RSA and an extended warranty?
 
 Arrow
-
-<!-- image -->
 
 While Honda RSA focuses on support during emergency situations like breakdowns, an extended warranty covers manufacturing defects and mechanical repairs for an extended period. Both services are designed to help you to a worry-free ownership experience.
 
@@ -199,11 +156,7 @@ While Honda RSA focuses on support during emergency situations like breakdowns, 
 
 Arrow
 
-<!-- image -->
-
 Definitely! If you didn't opt for RSA during the vehicle purchase, you can still add it later. Visit your nearest Honda dealer, and they'll help you enrol in the program.
-
-<!-- image -->
 
 ### 
 
@@ -212,27 +165,20 @@ Definitely! If you didn't opt for RSA during the vehicle purchase, you can still
 - Assistance over phone
 Icon
 
-<!-- image -->
 - On-road minor repairs
 Icon
 
-<!-- image -->
 - Flat tyres/puncture repairs
 Icon
 
-<!-- image -->
 - Pan India coverage
 Icon
 
-<!-- image -->
 - Key assistance
 Icon
 
-<!-- image -->
 - Transfer towing to service centre
 Icon
-
-<!-- image -->
 
 ## Frequently Asked Questions
 
@@ -240,15 +186,11 @@ Icon
 
 Arrow
 
-<!-- image -->
-
 RSA can be redeemed in case of puncture, breakdown, vehicle damage or in not working condition etc.
 
 ##### 2. How can customer avail RSA?
 
 Arrow
-
-<!-- image -->
 
 Customer has to call on Toll Free No. 1800 209 2224. (Free up to 50 Kms.)
 
@@ -256,14 +198,10 @@ Customer has to call on Toll Free No. 1800 209 2224. (Free up to 50 Kms.)
 
 Arrow
 
-<!-- image -->
-
 Customer can avail RSA services (towing service) 12 times in a year.
 
 ##### 4. Can RSA be purchased separately post 1st Year?
 
 Arrow
-
-<!-- image -->
 
 Yes customer can purchase anytime @Rs 799/- for next year?

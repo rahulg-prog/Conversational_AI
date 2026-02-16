@@ -3,23 +3,16 @@
 - RedWing Motorcycles
 RedWing Motorcycles
 
-<!-- image -->
 - RedWing Scooters
 RedWing Scooters
 
-<!-- image -->
 - BigWing Motorcycles
 BigWing Motorcycles
 
-<!-- image -->
 - EV
 EV
 
-<!-- image -->
-
 For BigWing
-
-<!-- image -->
 
 ### Overall AMC Features
 
@@ -39,67 +32,49 @@ For BigWing
 - Flexibility of Purchase *
 Icon
 
-<!-- image -->
 - Long-term Coverage - 2 to 6 years
 Icon
 
-<!-- image -->
 - Coverage - Periodic Maintenance Part, Lubricants and Labour Inclusive
 Icon
 
-<!-- image -->
 - Additional Benefits - 5% Discount on Additional Parts and Lubricants, and 20% on Additional Labour
 Icon
 
-<!-- image -->
 - FOC Washing
 Icon
 
-<!-- image -->
 - Complementary Pick and Drop, Doorstep Service, FOC Chain Cleaning
 Icon
 
-<!-- image -->
 - Inflation Protection
 Flexible Buying Option
 
-<!-- image -->
 - Good/Better Resale Value
 Good Resale Value
-
-<!-- image -->
 
 ## Basic AMC Customer Benefits
 
 - Flexibility of Purchase - Basic and Premium *
 Icon
 
-<!-- image -->
 - Best Coverage Term - 2 years
 Icon
 
-<!-- image -->
 - Benefits - 5% Discount on Parts and Lubricants and 20% on Additional Labour
 Icon
 
-<!-- image -->
 - FOC Washing
 Icon
 
-<!-- image -->
 - Inflation Protection
 Flexible Buying Option
 
-<!-- image -->
 - Good/Better Resale Value
 Good Resale Value
 
-<!-- image -->
-
 **AMC available for select models, please contact your nearest dealership for details.**
 
-<!-- image -->
-
 ##### Premium Annual Maintenance
 
 Premium Annual Maintenance Contract is the part of Value-added Services to provide maintenance benefits to our customers with Peace of Mind.
@@ -113,25 +88,17 @@ Premium Annual Maintenance Contract is the part of Value-added Services to provi
 - Periodic Services
 Icon
 
-<!-- image -->
 - Washing
 Icon
 
-<!-- image -->
 - Periodic Parts
 Icon
 
-<!-- image -->
 - Vehicle Health Checkup
 Icon
 
-<!-- image -->
 - Lubricants
 Icon
-
-<!-- image -->
-
-<!-- image -->
 
 ##### Basic Annual Maintenance
 
@@ -146,34 +113,25 @@ Basic Annual Maintenance Contract is the part of Value-added Services to provide
 - Washing
 Icon
 
-<!-- image -->
 - Vehicle Health Checkup
 Icon
 
-<!-- image -->
 - Periodic Services
 Icon
 
-<!-- image -->
 - Discount on Labor and Lubricants
 Icon
-
-<!-- image -->
 
 ## Features of Annual Maintenance Contract
 
 - Hassle-Free Maintenance
 Hassle Free Maintenance
 
-<!-- image -->
 - Improved Resale Value
 Good Resale Value
 
-<!-- image -->
 - Inflation Protection
 Flexible Buying Option
-
-<!-- image -->
 
 ## 
 
@@ -189,15 +147,11 @@ Flexible Buying Option
 
 Arrow
 
-<!-- image -->
-
 Honda AMC (Annual Maintenance Contract) is a tailored maintenance plan for your two-wheeler. It offers discounted rates on servicing, labour, and parts, ensuring your motorcycle or scooter runs smoothly and protecting from inflation.
 
 ##### 2. What is the difference between Premium AMC and Basic AMC?
 
 Arrow
-
-<!-- image -->
 
 **Premium AMC** covers long-term maintenance for 1 to 6 years, including periodic maintenance parts, lubricants, and labour.
 
@@ -207,8 +161,6 @@ Arrow
 
 Arrow
 
-<!-- image -->
-
 The **Premium AMC** offers additional discounts, including 8-12% on additional parts, lubricants and labour.
 
 Under the **Basic AMC** , you get a 5% discount on parts and lubricants and a 10% discount on additional labour.
@@ -217,15 +169,11 @@ Under the **Basic AMC** , you get a 5% discount on parts and lubricants and a 10
 
 Arrow
 
-<!-- image -->
-
 You can enrol in an AMC plan by visiting nearest Honda dealership or by clicking on the "Enquire Now" button to register your interest.
 
 ##### 5. How many products are available under AMC?
 
 Arrow
-
-<!-- image -->
 
 AMC comes with 2 types of products
 
@@ -237,11 +185,7 @@ AMC comes with 2 types of products
 
 Arrow
 
-<!-- image -->
-
 AMC is applicable only at the Honda authorised service centre from where it has been purchased.
-
-<!-- image -->
 
 ##### Premium Annual Maintenance
 
@@ -256,25 +200,17 @@ Premium Annual Maintenance Contract is the part of Value-added Services to provi
 - Periodic Services
 Icon
 
-<!-- image -->
 - Washing
 Icon
 
-<!-- image -->
 - Periodic Parts
 Icon
 
-<!-- image -->
 - Vehicle Health Checkup
 Icon
 
-<!-- image -->
 - Lubricants
 Icon
-
-<!-- image -->
-
-<!-- image -->
 
 ##### Basic Annual Maintenance
 
@@ -289,34 +225,25 @@ Basic Annual Maintenance Contract is the part of Value-added Services to provide
 - Washing
 Icon
 
-<!-- image -->
 - Vehicle Health Checkup
 Icon
 
-<!-- image -->
 - Periodic Services
 Icon
 
-<!-- image -->
 - Discount on Labor and Lubricants
 Icon
-
-<!-- image -->
 
 ## Features of Annual Maintenance Contract
 
 - Hassle-Free Maintenance
 Hassle Free Maintenance
 
-<!-- image -->
 - Improved Resale Value
 Good Resale Value
 
-<!-- image -->
 - Inflation Protection
 Flexible Buying Option
-
-<!-- image -->
 
 ## 
 
@@ -332,15 +259,11 @@ Flexible Buying Option
 
 Arrow
 
-<!-- image -->
-
 Honda AMC (Annual Maintenance Contract) is a tailored maintenance plan for your two-wheeler. It offers discounted rates on servicing, labour, and parts, ensuring your motorcycle or scooter runs smoothly and protecting from inflation.
 
 ##### 2. What is the difference between Premium AMC and Basic AMC?
 
 Arrow
-
-<!-- image -->
 
 **Premium AMC** covers long-term maintenance for 1 to 6 years, including periodic maintenance parts, lubricants, and labour.
 
@@ -350,8 +273,6 @@ Arrow
 
 Arrow
 
-<!-- image -->
-
 The **Premium AMC** offers additional discounts, including 8-12% on additional parts, lubricants and labour.
 
 Under the **Basic AMC** , you get a 5% discount on parts and lubricants and a 10% discount on additional labour.
@@ -360,15 +281,11 @@ Under the **Basic AMC** , you get a 5% discount on parts and lubricants and a 10
 
 Arrow
 
-<!-- image -->
-
 You can enrol in an AMC plan by visiting nearest Honda dealership or by clicking on the "Enquire Now" button to register your interest.
 
 ##### 5. How many products are available under AMC?
 
 Arrow
-
-<!-- image -->
 
 AMC comes with 2 types of products
 
@@ -380,61 +297,44 @@ AMC comes with 2 types of products
 
 Arrow
 
-<!-- image -->
-
 AMC is applicable only at the Honda authorised service centre from where it has been purchased.
-
-<!-- image -->
 
 ## Features of Annual Maintenance Contract
 
 - Across India Validity
 Across India Validity
 
-<!-- image -->
 - Package Transfer Option
 Transferable
 
-<!-- image -->
 - Reasonable Charge
 Major Parts Covered
 
-<!-- image -->
 - Protection from Inflation
 Flexible Buying Option
 
-<!-- image -->
 - Service by Expert Honda Technician
 Service by Expert
 
-<!-- image -->
 - Discount on Parts and Labour
 High Value Parts
-
-<!-- image -->
 
 ## Basic AMC Customer Benefit
 
 - 2 Periodic Maintenance Labour Charge Covered
 Hassle Free Maintenance
 
-<!-- image -->
 - Flexibility of Purchase - Basic
 Good Resale Value
 
-<!-- image -->
 - Best Coverage Term - 1 Years
 Icon
 
-<!-- image -->
 - Benefits - 5% Discount on Parts and Lubricants, and 10% on Additional Labour
 Icon
 
-<!-- image -->
 - Benefits - 5% Discount on Tyre Cost and 20% on Tyre Replacement Labour
 Icon
-
-<!-- image -->
 
 ## Frequently Asked Questions
 
@@ -442,15 +342,11 @@ Icon
 
 Arrow
 
-<!-- image -->
-
 EV AMC (Annual Maintenance Contract) is a tailored maintenance plan for your E-two-wheeler. It offers discounted rates on servicing, labour, and parts, ensuring your EV runs smoothly and protecting from inflation.
 
 ##### 2. Is consumable covered in EV AMC?
 
 Arrow
-
-<!-- image -->
 
 No, only Periodic maintenance Labour charge of 2 schedule service covered.
 
@@ -458,14 +354,10 @@ No, only Periodic maintenance Labour charge of 2 schedule service covered.
 
 Arrow
 
-<!-- image -->
-
 Under the Basic AMC, you get a 5% discount on parts &amp; tyre 10% discount on additional labour.
 
 ##### 4. If a customer moves to another city, can they still avail the benefits of this AMC package?
 
 Arrow
-
-<!-- image -->
 
 Yes, this package is valid across India. The customer can avail the benefits at any Authorized EV Honda Dealer in any city.k
