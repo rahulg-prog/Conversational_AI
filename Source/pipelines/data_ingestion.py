@@ -61,12 +61,12 @@ if __name__ == "__main__":
     converter = DoclingMarkdownConverter()
 
     # Single input
-    for i in all_pages:
-        converter.convert(i)
+    # for i in all_pages:
+    #     converter.convert(i)
         
-    # converter.convert(
-    #     "https://www.honda2wheelersindia.com/services/maintenance/extended-warranty"
-    # )
+    converter.convert(
+        r"C:\github_work\Conversational_AI\Source\data\raw_data\Final.xlsx"
+    )
 
     # # Multiple mixed inputs
     # converter.convert([
